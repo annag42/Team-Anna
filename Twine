@@ -33,536 +33,955 @@ tw-story {
  background-size:cover;
 }
 */</style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="AO" tags="AO" position="625,400" size="100,100">Three weeks after your stepfather moves in, all the built-up anger feels like it is going to explode out of you at any moment. You are frustrated with adults going through your things, want to scream at your new “sister” who keeps stealing your money, and are horrified by the older “brother” twice your size who broke into your room the night before who won’t take no for an answer. No one believes you. No one seems to care. 
+
 It’s hard to pretend you don’t see the judgment in the eyes of teachers at school who probably think you aren’t going to turn out any different from your abusive dad—whom you haven’t seen since he walked out three years ago—and your alcoholic mom.
+
 You’ve considered that running away might be easier than living in the hell hole that’s now supposed to be “home.” It’s more like a farm with as many kids crammed in as possible. It isn’t just your mom and step-dad’s new baby who cries all hours of the night. It’s your stepfather’s four children and two foster kids, too. You only have your own room because you claimed the weird storage room with the sloped ceiling under the eaves of the roof.
+
 You would run away if it wasn’t for your dog, Bear. He’s the cutest puppy in the world and reminds you of your toy teddy bear that your mom made you as a kid—back in the days when she had a job, hobbies, and you knew she loved you. Bear is a loyal friend and woke you to warn you when that creepy step “brother” broke into your room last night.
+
 Bear doesn’t deserve to be cold and hungry. On the other hand, your mom and stepfather are going to take him away if they catch him, and he’s the one good thing you have left.
+
 The only other items you own are your clothes in the dresser and your backpack containing: a granola bar, your cell phone and charger, a wallet with five dollars and your school ID, your inhaler, a meager amount of dog food left in the 5 pound bag, and a few books and folders from school.
+
 You decide to:
 
-[[A1) stick it out at home a little longer and hope it improves.-&gt;A1]]
-[[A2) text a friend and ask if you can walk to their house and spend the night.-&gt;A2]]
-[[A3) run away and find somewhere to sleep for the night.-&gt;A3]]</tw-passagedata><tw-passagedata pid="2" name="A1" tags="" position="475,550" size="100,100">You stick it out at home a little longer and hope it improves.
+[[・stick it out at home a little longer and hope it improves.-&gt;A1]]
+[[・ text a friend and ask if you can walk to their house and spend the night.-&gt;A2]]
+[[・ run away and find somewhere to sleep for the night.-&gt;A3]]</tw-passagedata><tw-passagedata pid="2" name="A1" tags="" position="475,550" size="100,100">You stick it out at home a little longer and hope it improves.
+
 You wedge a chair from the desk under the door handle like you’ve seen in the movies to keep thieves and creepy predators out of your room. As you settle down to bed at ten thirty, your puppy whines from the warmth of the bed beside you. Of course he would decide he has to go out after you’ve secured your room. You lay down some homework from your bag and try to get him to use that, but he won’t.
+
 “Come on, Bear,” you coax.
+
 He continues to whine. You worked so hard to housebreak him. If you don’t take him out, he’s going to pee in the bed or somewhere else that is going to give him away. His whining gets louder.
+
 Someone pounds on the door. “Do you have a dog in there?” It’s your stepfather. He sounds angry.
+
 “No, I’m watching a video on my phone,” you call through the door.
+
 Why is it the adults now take an interest in checking on you, not when jerk housemates try to grope you or get in your room at night? Life is so unfair.
+
 “You need to be quieter. People are trying to sleep.” He falls for the lie and stomps way. You play a video on YouTube to mask the sound, but Bear won’t stop crying.
+
 You need to do something about Bear before they discover him and take him away.
+
 You:
-[[A4) sneak outside so Bear can use the lawn.-&gt;A4]]
-[[A2) text a friend and ask if you can walk to their house and spend the night.-&gt;A2]]
-[[A3) run away and find somewhere to sleep for the night.-&gt;A3]]</tw-passagedata><tw-passagedata pid="3" name="A2" tags="" position="625,550" size="100,100">Text a friend and ask if you can walk to their house and spend the night.
+
+[[・ sneak outside so Bear can use the lawn.-&gt;A4]]
+[[・ text a friend and ask if you can walk to their house and spend the night.-&gt;A2]]
+[[・ run away and find somewhere to sleep for the night.-&gt;A3]]</tw-passagedata><tw-passagedata pid="3" name="A2" tags="" position="625,550" size="100,100">Text a friend and ask if you can walk to their house and spend the night.
+
 It’s ten thirty at night and most of the people you know have probably gone to sleep. You don’t have many close friends anymore. The ones with parents who might not mind you spending the night will probably be asleep. Your friend, Chase, will still be up playing videogames, but his parents don’t like you. His apartment complex is only about a mile away, but you don’t remember the apartment number. You try to send a text message but remember you didn’t pay for any more minutes or data. You need to use Wi-Fi to get on Facebook messenger or Snapchat.
+
 You decide to:
-[[A5) return home to use Wi-fi and hope you aren’t caught.-&gt;A5]]
-[[W1) look for a Wi-Fi spot on the way to Chase’s house.-&gt;W1]]
-[[A3) run away and find somewhere else to sleep for the night.-&gt;A3]]
+
+[[・ return home to use Wi-fi and hope you aren’t caught.-&gt;A5]]
+[[・ look for a Wi-Fi spot on the way to Chase’s house.-&gt;W1]]
+[[・ run away and find somewhere else to sleep for the night.-&gt;A3]]
 </tw-passagedata><tw-passagedata pid="4" name="A3" tags="" position="775,550" size="100,100">You find somewhere to sleep for the night.
+
 You walk down the dark street. It rains off and on. You wish you had an umbrella to keep the rain off you and Bear. The rain feels like it has seeped under your skin down to the bone. Bear shivers in your bag. You pass a man sleeping in front of a closed restaurant under an overhang. You need shelter too.
+
 You decide to:
-[[V1) Look for someplace hidden and out of the way so no one will bother you.-&gt;V1]]
-[[V2) Look for someplace in plain sight of a main street so that if someone bothers you, it will be out in the open where they will get caught.-&gt;V2]]</tw-passagedata><tw-passagedata pid="5" name="A4" tags="" position="350,675" size="100,100">You sneak outside so Bear can use the lawn. 
+
+[[・ Look for someplace hidden and out of the way so no one will bother you.-&gt;V1]]
+[[・ Look for someplace in plain sight of a main street so that if someone bothers you, it will be out in the open where they will get caught.-&gt;V2]]</tw-passagedata><tw-passagedata pid="5" name="A4" tags="" position="350,675" size="100,100">You sneak outside so Bear can use the lawn. 
+
 You pull a hoodie over your t-shirt and dress in a pair of jeans and gym shoes so you won’t get cold. You don’t want anyone to get into your backpack and steal the only five dollars and dogfood you have while you are out of your room, so you take that with you.
+
 Bear stops whining as you pick him up and sneak downstairs toward the door. You are as silent as a shadow as you slip through the house. Your heart pounds as you avoid the creaky boards and unlatch the door. Bear is a perfect angel as you tiptoe outside.
+
 In the luminescence of the porchlight, he pees on the grass and then wags his tail at you.
+
 “You’re a good boy, aren’t you?” You pick him up and hug him. He loves you unconditionally, more than either of your parents have.
+
 When you turn back to the door, you find your stepfather standing there. A vein throbs in his forehead, and he clenches his fists like your real dad used to do before he hit your mom.
+
 “We don’t allow pets in our home.” He starts toward Bear.
+
 “But I need him! I love him!” you say.
+
 You can see your stepfather isn’t persuaded. You can’t let them take Bear. You run down the street and hide between two buildings, thinking about what you should do.
+
 You decide to:
-[[A2) text a friend and ask if you can walk to their house and spend the night.-&gt;A2]]
-[[A3) run away and find somewhere to sleep for the night.-&gt;A3]]</tw-passagedata><tw-passagedata pid="6" name="A5" tags="" position="500,675" size="100,100">Return home to use Wi-fi and hope you aren’t caught.
+
+[[・ text a friend and ask if you can walk to their house and spend the night.-&gt;A2]]
+[[・ run away and find somewhere to sleep for the night.-&gt;A3]]</tw-passagedata><tw-passagedata pid="6" name="A5" tags="" position="500,675" size="100,100">Return home to use Wi-fi and hope you aren’t caught.
+
 You peek at your home from a distance. It doesn’t look like anyone is awake and no one is standing around. The porchlight is on just like before. You get close enough to use the Wi-Fi and send off a Facebook message to Chase, explaining what happened. You ask if you can spend the night.
+
 Waiting for his response is torture.
+
 You get impatient and type:
+
 What’s your apartment number?
+
 You are staring at your screen when Bear whines. A police car pulls up. You shove the phone into your pocket so the light won’t make it easy for them to find you.
+
 Your stepdad called the police on you and probably reported that you ran away. If they catch you, they will take Bear and make you stay at home where it isn’t safe.
+
 You:
-[[W6) go to Chase’s house and hope you can find it.-&gt;W6]]
-[[W1) look for a Wi-Fi spot on the way to Chase’s house to see what he said.-&gt;W1]]
-[[A3) run away and find somewhere else to sleep for the night.-&gt;A3]]</tw-passagedata><tw-passagedata pid="7" name="W1" tags="" position="275,800" size="100,100">You look for a Wi-Fi spot on the way to Chase’s house to see what he said.
+
+[[・ go to Chase’s house and hope you can find it.-&gt;W6]]
+[[・ look for a Wi-Fi spot on the way to Chase’s house to see what he said.-&gt;W1]]
+[[・ run away and find somewhere else to sleep for the night.-&gt;A3]]</tw-passagedata><tw-passagedata pid="7" name="W1" tags="" position="275,800" size="100,100">You look for a Wi-Fi spot on the way to Chase’s house to see what he said.
+
 Shari’s is open all night and they have free Wi-Fi for customers, but they are far away. McDonalds is closer, and you are pretty sure McDonalds has Wi-Fi. Some McDonalds are open 24 hours, but not all. If only you had Wi-Fi, you would be able to find all the locations of restaurants with Wi-Fi.
+
 You:
-[[W6) walk to Chase’s house and hope you can find it.-&gt;W6]]
-[[W2) walk to McDonalds.-&gt;W2]]
-[[W3) take the bus to Shari’s.-&gt;W3]]</tw-passagedata><tw-passagedata pid="8" name="V1" tags="" position="650,675" size="100,100">You look for someplace hidden and out of the way so no one will bother you.
+
+[[・ walk to Chase’s house and hope you can find it.-&gt;W6]]
+[[・ walk to McDonalds.-&gt;W2]]
+[[・ take the bus to Shari’s.-&gt;W3]]</tw-passagedata><tw-passagedata pid="8" name="V1" tags="" position="650,675" size="100,100">You look for someplace hidden and out of the way so no one will bother you.
+
 You find a bush in a parking lot and make yourself as comfortable as you can for the night. It is difficult to sleep because you are so cold. You wished you had a sleeping bag.
+
 In the morning, Bear wakes you because he is hungry. You feed him some dog food but decide to hold off from eating your granola bar until you really need it. The cold of the rain makes your asthma worse. You take two puffs of your inhaler but keep coughing.
+
 You are going to need to find a more permanent solution to living at home. If you go to school, you can eat lunch for free and talk to people you know to see if any of them will let you couch surf. If you go to the library, you can find out what people do to stay warm and places you can get free food. But at either of those places, there will be adults, and they might report you to DHS or the police who will take you back home.
+
 Your other option is to be independent and panhandle so you can stay away from adults.
 
 You decide to:
-[[A6) go to school.-&gt;A6]]
-[[B1) go to the Eugene library.-&gt;B1]]
-[[C1) panhandle.-&gt;C1]]</tw-passagedata><tw-passagedata pid="9" name="V2" tags="" position="950,675" size="100,100">You look for someplace in plain sight of a main street so that if someone bothers you, it will be out in the open where they will get caught.
+[[・ go to school.-&gt;A6]]
+[[・ go to the Eugene library.-&gt;B1]]
+[[・ panhandle.-&gt;C1]]</tw-passagedata><tw-passagedata pid="9" name="V2" tags="" position="950,675" size="100,100">You look for someplace in plain sight of a main street so that if someone bothers you, it will be out in the open where they will get caught.
+
 You find a shop with an awning. It is loud with traffic rushing by. Every time you fall asleep, someone with a shopping cart rattles by and Bear howls. His squirming and whining wakes you a dozen times.
+
 When it starts to pour and the puddles get bigger, cars drive through them and splash you. It’s difficult to sleep because you are so wet and cold. You wished you had a sleeping bag. Bear whines for hours. You think he might hungry and you feed him. He eats some kibble but then goes back to whining.
+
 In the morning, you are cold, tired, and hungry. You want the granola bar, but you should wait until you really need it. The cold of the rain makes your asthma worse. You take two puffs of your inhaler but keep coughing.
+
 You are going to need to find a more permanent solution. If you go to school, you can eat lunch for free and talk to people you know to see if any of them will let you couch surf. If you go to the library, you can find out what people do to stay warm and places you can get free food. But at either of those places, there will be adults, and they might report you to DHS who will take you back home.
+
 Your other option is to be independent and panhandle so you can stay away from adults.
+
 You decide to:
-[[A6) go to school.-&gt;A6]]
-[[B1) go to the Eugene library.-&gt;B1]]
-[[C1) panhandle.-&gt;C1]]</tw-passagedata><tw-passagedata pid="10" name="W6" tags="" position="1125,800" size="100,100">You go to Chase’s house and hope you can find it.
+
+[[・ go to school.-&gt;A6]]
+[[・ go to the Eugene library.-&gt;B1]]
+[[・ panhandle.-&gt;C1]]</tw-passagedata><tw-passagedata pid="10" name="W6" tags="" position="1125,800" size="100,100">You go to Chase’s house and hope you can find it.
+
 The walk to Chase’s apartment complex takes forever. The night air is cold and biting and it isn’t even winter yet. Your feet hurt and your backpack with Bear inside it grows increasingly heavy. You ditch your books by the side of the road. The school will fine you for losing these books, but Bear will be more comfortable without them squishing him.
+
 You arrive at Chase’s apartment complex. The boxy buildings all look the same. You know he lives somewhere in the back corner. You narrow it down to three. Chase lives on the second floor. Only one of the apartments has a blue light flashing from inside. Either someone is watching a television or playing video games.
+
 You try your Wi-Fi. Nothing. You find some rocks and throw it at the wall, doing your best to get his attention. Your next rock sails into the glass.
 The windowpane cracks loudly. A burly man with tattoos all over his neck and arms sticks his head out the window. It isn’t Chase or anyone in his family.
+
 “You’re going to pay for that, you little shit!” He leaves the window.
 A woman from inside says something about the police.
+
 You run away.
+
 You:
-[[V1) look for someplace hidden and out of the way so no one will bother you.-&gt;V1]]
-[[V2) look for someplace in plain sight of a main street so that if someone bothers you, it will be out in the open and the witnesses will see them if they try anything.-&gt;V2]]</tw-passagedata><tw-passagedata pid="11" name="W2" tags="" position="400,800" size="100,100">You walk to McDonalds.
+
+[[・ look for someplace hidden and out of the way so no one will bother you.-&gt;V1]]
+[[・ look for someplace in plain sight of a main street so that if someone bothers you, it will be out in the open and the witnesses will see them if they try anything.-&gt;V2]]</tw-passagedata><tw-passagedata pid="11" name="W2" tags="" position="400,800" size="100,100">You walk to McDonalds.
+
 They have just closed. This location isn’t open 24 hours. You should have chosen Shari’s.
+
 Frustrated, you try the Wi-Fi from outside. It doesn’t work. Maybe you have to be inside or maybe they turned it off. You still need to get ahold of someone so you can find somewhere to sleep.
+
 You:
-[[W6) walk to Chase’s house and hope you can find it.-&gt;W6]]
-[[W3) take the bus to Shari’s.-&gt;W3]]
-[[A3) find somewhere else to sleep for the night.-&gt;A3]]</tw-passagedata><tw-passagedata pid="12" name="W3" tags="" position="675,800" size="100,100">You take the bus to Shari’s.
+
+[[・ walk to Chase’s house and hope you can find it.-&gt;W6]]
+[[・ take the bus to Shari’s.-&gt;W3]]
+[[・ find somewhere else to sleep for the night.-&gt;A3]]</tw-passagedata><tw-passagedata pid="12" name="W3" tags="" position="675,800" size="100,100">You take the bus to Shari’s.
+
 It is cold and rainy. Eventually the bus comes. 
+
 As you pay and board, Bear whines. You hope he doesn’t have to pee again. The driver’s gaze flickers to Bear. He doesn’t kick you off the bus, but you know he is watching you. 
+
 You sit in the back away from the four other people on the bus so Bear can pee on the floor without anyone noticing. He poops, too, and not on any papers.
+
 When you get to Shari’s, you zip Bear into your bag. You’re going to need to buy something to eat or drink, so they don’t kick you out. You purchase a soda.
+
 Chase hasn’t texted back. You thought he was your friend, but he would write you if he cared. You are tired of waiting for Chase. Bear is sleeping in your bag.
+
 You need some sleep. You decide to:
-[[W5) get comfortable in your booth and sleep.-&gt;W5]]
-[[W4) play games on your phone to stay awake.-&gt;W4]]
-[[W6) Leave and do not pay. You go to Chase’s house and hope you can find it.-&gt;W6]]
+
+[[・ get comfortable in your booth and sleep.-&gt;W5]]
+[[・ play games on your phone to stay awake.-&gt;W4]]
+[[・ Leave and do not pay. You go to Chase’s house and hope you can find it.-&gt;W6]]
 </tw-passagedata><tw-passagedata pid="13" name="W5" tags="" position="825,800" size="100,100">You get comfortable in your booth and sleep.
+
 You haven’t been asleep long when someone clears her throat. You jerk awake, startling Bear who shifts in the bag.
+
 “I’m sorry,” the waitress says. “You can’t sleep here.”
+
 You glare at her. “Why not? I’m a paying customer.”
+
 “This isn’t a hotel.”
+
 You cross your arms. “Fine. I’ll just drink my soda.”
+
 Pretty soon your eyes start to feel heavy.
+
 You:
-[[W4) play games on your phone to stay awake.-&gt;W4]]
-[[W6) you leave and do not pay. You go to Chase’s house and hope you can find it.-&gt;W6]]
-[[A3) run away and find somewhere to sleep for the night.-&gt;A3]]</tw-passagedata><tw-passagedata pid="14" name="W4" tags="" position="800,675" size="100,100">You play games on your phone to stay awake.
+
+[[・ play games on your phone to stay awake.-&gt;W4]]
+[[・ you leave and do not pay. You go to Chase’s house and hope you can find it.-&gt;W6]]
+[[・ run away and find somewhere to sleep for the night.-&gt;A3]]</tw-passagedata><tw-passagedata pid="14" name="W4" tags="" position="800,675" size="100,100">You play games on your phone to stay awake.
+
 You nurse your soda slowly, keeping an eye on the waitress in case she calls the police. 
+
 When the waitress returns, she says, “You’ve been here for three hours. You can stay if you want to order something else.”
+
 “Fine. Give me a menu,” you say.
+
 She drops off a menu before heading toward a woman in a booth.
+
 If you ordered something the cooks have to make, that would take them a while and you could eat it slowly to buy yourself a couple more hours. But you don’t have enough money. If you pay for your soda, you don’t have bus fare to go to Chase’s or anyplace else.
+
 There is money on a nearby table that someone left the waitress for a tip. If you grab it now and go, that will give you bus fare and another meal.
+
 When you were little, your mom used to tell you stealing was wrong—but that was before she started stealing from your piggybank to pay for drugs.
+
 You don’t want to be like your mother. But you need someplace to sleep, and you’ll need to eat later.
+
 You decide to:
-[[W7) steal the waitress’s tip and leave without paying.-&gt;W7]]
-[[W8) order food even though you don’t have money.-&gt;W8]]
-[[A3) leave and find somewhere to sleep for the night.-&gt;A3]]</tw-passagedata><tw-passagedata pid="15" name="W7" tags="" position="625,1100" size="100,100">You steal the waitress’s tip and leave without paying.
+
+[[・ steal the waitress’s tip and leave without paying.-&gt;W7]]
+[[・ order food even though you don’t have money.-&gt;W8]]
+[[・ leave and find somewhere to sleep for the night.-&gt;A3]]</tw-passagedata><tw-passagedata pid="15" name="W7" tags="" position="625,1100" size="100,100">You steal the waitress’s tip and leave without paying.
+
 You wait until the waitress is occupied filling the other table’s order. When she is looking the other way you snatch up the money from the table and shove it in the pocket of your hoodie. You rush out the door and duck your chin down to keep the rain from getting in your face. If you wait at the closest bus stop, they will probably find you, so you keep walking.
+
 In the light of a streetlamp, you remove the money from your pocket to discover you have six dollars.
+
 You: 
-[[A3) leave and find somewhere to sleep for the night.-&gt;A3]]
-[[W6) go to Chase’s house and hope you can find it.-&gt;W6]]</tw-passagedata><tw-passagedata pid="16" name="W8" tags="" position="750,1100" size="100,100">Order food even though you don’t have money.
+
+[[・ leave and find somewhere to sleep for the night.-&gt;A3]]
+[[・ go to Chase’s house and hope you can find it.-&gt;W6]]</tw-passagedata><tw-passagedata pid="16" name="W8" tags="" position="750,1100" size="100,100">Order food even though you don’t have money.
+
 Your hands shake as you order food, and you hide them under the table. You don’t want the waitress to think you’re a junkie like your mom. She eyes you like one of your friends’ parents, her face full of judgement.
+
 You lean back in the booth, your eyelids drooping. When your order comes, you eat half of it. If you eat all of it or get a to-go box for the rest, that means she will bring the bill and try to stop you if you leave. Or call the police. You don’t want her to suspect you.
+
 Instead, you wait until she returns to tell her you want to use the restroom and don’t want her to clear your plate because you aren’t done. After using the bathroom, you sneak out and leave.
+
 Your stomach cramps. This doesn’t feel right. You walk quickly so no one from the restaurant can run after you and find you.
+
 You are more tired than ever. You:
-[[A3) find somewhere to sleep for the night.-&gt;A3]]
-[[W6) you go to Chase’s house and hope you can find it.-&gt;W6]]</tw-passagedata><tw-passagedata pid="17" name="A6" tags="" position="525,800" size="100,100">You take the next bus to Eugene so you can go to school to get lunch.
+
+[[・ find somewhere to sleep for the night.-&gt;A3]]
+[[・ you go to Chase’s house and hope you can find it.-&gt;W6]]</tw-passagedata><tw-passagedata pid="17" name="A6" tags="" position="525,800" size="100,100">You take the next bus to Eugene so you can go to school to get lunch.
+
 The bus is warm, and your asthma isn’t as bad. Unfortunately you miss lunch. You arrive at school after the bell rings for students to go to class. In the cafeteria, students till loiter. You wave to a friend—or someone you thought was a friend. She doesn’t wave back.
+
 You feel alone.
+
 The lunch line is closed, but there are apples, unopened milk, and a couple trays with tater tots that someone didn’t throw away. Enough people are still in the cafeteria that there’s no way you can pillage people’s leftovers without someone noticing and bullying you later about it.
+
 On the other hand, you’re hungry. More importantly, you have to think about Bear. He’s going to be hungry too. You glance over your shoulder and head over to what hasn’t been thrown away yet. Your heart thunders.
+
 How much food do you grab?
-[[H1) You grab as much food as you can in one pass without stopping to draw attention to yourself.-&gt;H1]]
-[[H2) You grab as much food as will fit in your bag before anyone yells at you.-&gt;H2]]
-[[I3) You are hungry, but it is too risky to steal here. You wander the halls until you find one of your friends.-&gt;I3]]</tw-passagedata><tw-passagedata pid="18" name="B1" tags="" position="650,950" size="100,100">You get on a bus that will take you to the Eugene library.
+
+[[・ You grab as much food as you can in one pass without stopping to draw attention to yourself.-&gt;H1]]
+[[・ You grab as much food as will fit in your bag before anyone yells at you.-&gt;H2]]
+[[・ You are hungry, but it is too risky to steal here. You wander the halls until you find one of your friends.-&gt;I3]]</tw-passagedata><tw-passagedata pid="18" name="B1" tags="" position="650,950" size="100,100">You get on a bus that will take you to the Eugene library.
+
 The library is warm, and your asthma is better than it was earlier in the morning. You have a library card, but you don’t need it to use the computer. You do research. You find resources for getting supplies you need to survive on the street. You can go to Looking Glass or the Catholic Community Services in Eugene or Springfield. Outside the library, there are a lot of homeless people.
+
 You: 
-[[R2) leave and go to Looking Glass to get blankets because they specialize in helping youth.-&gt;R2]]
-[[D4) leave and go to Catholic Community Services to talk to them about shelter.-&gt;D4]]
-[[C6) find some homeless people and ask their advice on where to go.-&gt;C6]]</tw-passagedata><tw-passagedata pid="19" name="C1" tags="" position="975,800" size="100,100">You panhandle.
+
+[[・ leave and go to Looking Glass to get blankets because they specialize in helping youth.-&gt;R2]]
+[[・ leave and go to Catholic Community Services to talk to them about shelter.-&gt;D4]]
+[[・ find some homeless people and ask their advice on where to go.-&gt;C6]]</tw-passagedata><tw-passagedata pid="19" name="C1" tags="" position="975,800" size="100,100">You panhandle.
+
 You have seen plenty of people do this. Right away you can see your first problem. You don’t have a sign. You scrounge through a dumpster to find a box that you break down and turn inside out. Under your meager supplies in your bag, you find an old Sharpie. You only get one letter down and then it dies. It takes forever to write a sign with a dried pen.
+
 You find a corner that gets traffic. Your sign is hard to read, but it says:
+
 We are hungry. Anything helps.
-It is cold and you keep coughing. You make five dollars before some lady with a baby stroller filled with plastic bags shouts, “This is my corner. Find yourself someplace else!”
+
+It is cold and you keep coughing. You make five dollars before some lady with a baby stroller filled with plastic bags shouts, “This is my corner. 
+Find yourself someplace else!”
+
 She rams you with her cart and knocks your sign into a puddle.
+
 You yell back. “You can’t own a street corner!” You shove her cart away before it hits Bear.
+
 The lady is waving her hands and spitting as she shouts. She doesn’t even make sense. She reminds you of your crazy mother. 
+
 You stuff Bear into your bag, grab your soggy sign, and leave. You:
-[[C2) panhandle on a different street corner nearby.-&gt;C2]]
-[[C3) panhandle in a different part of the city.-&gt;C3]]
-[[C4) get on the bus because it will at least be warm. While you’re riding it, you can decide what to do.-&gt;C4]]</tw-passagedata><tw-passagedata pid="20" name="C2" tags="" position="800,950" size="100,100">You panhandle on a different street corner nearby.
+
+[[・ panhandle on a different street corner nearby.-&gt;C2]]
+[[・ panhandle in a different part of the city.-&gt;C3]]
+[[・ get on the bus because it will at least be warm. While you’re riding it, you can decide what to do.-&gt;C4]]</tw-passagedata><tw-passagedata pid="20" name="C2" tags="" position="800,950" size="100,100">You panhandle on a different street corner nearby.
+
 Your sign is soggy and unreadable. The corner where you stand doesn’t have good traffic. Your feet are tired, so you sit. Bear is restless. You feed him, and he eats, but that doesn’t help. He shivers and whines. He doesn’t need to go pee. You don’t know what is wrong with him. Maybe he is cold like you.
+
 No one stops to give anything to you. This isn’t working. 
+
 You decide to:
-[[C3) Panhandle in a different part of the city.-&gt;C3]]
-[[C4) Get on the bus because it will at least be warm. During your ride, you can decide what to do.-&gt;C4]]</tw-passagedata><tw-passagedata pid="21" name="C3" tags="" position="950,950" size="100,100">You decide to panhandle in a different part of the city.
+
+[[・ Panhandle in a different part of the city.-&gt;C3]]
+[[・ Get on the bus because it will at least be warm. During your ride, you can decide what to do.-&gt;C4]]</tw-passagedata><tw-passagedata pid="21" name="C3" tags="" position="950,950" size="100,100">You decide to panhandle in a different part of the city.
+
 You still have enough money to ride the bus. The driver isn’t anyone you’ve met before, so that’s a relief. You find a toasty place in the back and fall asleep. Bear’s squirming and whining wakes you. The bus has stopped.
+
 “Hey!” the bus driver says. “This is the last stop. I need you to get out.”
+
 The view outside is unfamiliar. There’s a busy road and there’s a lot of people outside waiting for buses.
+
 “Where am I?” you ask.
+
 “Springfield Station,” he says.
+
 You leave the bus. At least you got a couple hours of sleep. You are hungrier than ever. There is a small group of people who look homeless. 
+
 You decide to:
-[[D1) Panhandle in Springfield.-&gt;D1]]
-[[C5) Eat your granola bar.-&gt;C5]]
-[[C6) Talk to the homeless people and ask their advice.-&gt;C6]]
-[[A7) Look at the bus map to see if there is any place useful nearby.-&gt;A7]]</tw-passagedata><tw-passagedata pid="22" name="C4" tags="" position="1100,950" size="100,100">You get on another bus because it will at least be warm.
+
+[[・ Panhandle in Springfield.-&gt;D1]]
+[[・ Eat your granola bar.-&gt;C5]]
+[[・ Talk to the homeless people and ask their advice.-&gt;C6]]
+[[・ Look at the bus map to see if there is any place useful nearby.-&gt;A7]]</tw-passagedata><tw-passagedata pid="22" name="C4" tags="" position="1100,950" size="100,100">You get on another bus because it will at least be warm.
+
 During your ride, you can decide what to do. There are more people on the next bus, and you have to stand. Your feet ache, and it’s hard to concentrate.
+
 Your belly cramps with hunger, and you feel lightheaded. You need someplace warm to sleep tonight, but you don’t know how to find food and someplace to sleep.
+
 You decide you will need to get off:
-[[A6) at school.-&gt;A6]]
-[[B1) at the Eugene library.-&gt;B1]]
-[[E1) after asking someone on the bus for directions for the area.-&gt;E1]]
-[[D1) someplace that looks like it will be good for panhandling in Springfield.-&gt;D1]]</tw-passagedata><tw-passagedata pid="23" name="D1" tags="" position="650,1225" size="100,100">You panhandle in Springfield.
+
+[[・ at school.-&gt;A6]]
+[[・ at the Eugene library.-&gt;B1]]
+[[・ after asking someone on the bus for directions for the area.-&gt;E1]]
+[[・ someplace that looks like it will be good for panhandling in Springfield.-&gt;D1]]</tw-passagedata><tw-passagedata pid="23" name="D1" tags="" position="650,1225" size="100,100">You panhandle in Springfield.
+
 You dig through a dumpster to find a scrap of cardboard and use the only Sharpie in your bag to make a sign. The sign is hard to read because the pen keeps drying out.
+
 You stand on a corner. No one stops. Eventually a police car pulls up. A female officer gets out.
+
 “Hi,” she smiles, but it doesn’t touch her eyes. “Did you know that there’s a city ordinance in Springfield that prohibits motorists from giving handouts to pedestrians?”
+
 “No. Sorry. I didn’t know.” You mumble and don’t meet her eyes.
+
 “Is everything all right? You look young to be out here alone.”
+
 You edge back. “Yes, everything is fine.”
+
 “Do you need help? Are you hungry?”
+
 Your belly grumbles so loud at the mention of food you’re certain she can hear it.
+
 “No, I’m fine.”
+
 She steps closer. “Do you know where the nearest soup kitchen is?” 
+
 You don’t know where to find food, but you don’t know if you can trust her. She might use that as a lure and then arrest you. They might make you go home and take away Bear.
+
 You:
-[[D2) run before she grabs you.-&gt;D2]]
-[[D3) decide to trust her.-&gt;D3]]</tw-passagedata><tw-passagedata pid="24" name="C5" tags="" position="875,1100" size="100,100">You eat your granola bar.
+
+[[・ run before she grabs you.-&gt;D2]]
+[[・ decide to trust her.-&gt;D3]]</tw-passagedata><tw-passagedata pid="24" name="C5" tags="" position="875,1100" size="100,100">You eat your granola bar.
+
 Your belly is still hungry and now you will have nothing to eat later.
+
 You decide to:
-[[C4) Get on another bus because it will at least be warm. During your ride, you can decide what to do.-&gt;C4]]
-[[D1) Panhandle in Springfield.-&gt;D1]]
-[[C6) Talk to the homeless people and ask their advice.-&gt;C6]]
-[[A7) Look at the bus map to see if there is any place useful nearby.-&gt;A7]]</tw-passagedata><tw-passagedata pid="25" name="C6" tags="" position="1025,1100" size="100,100">You find some homeless people and ask their advice on where to go.
+
+[[・ Get on another bus because it will at least be warm. During your ride, you can decide what to do.-&gt;C4]]
+[[・ Panhandle in Springfield.-&gt;D1]]
+[[・ Talk to the homeless people and ask their advice.-&gt;C6]]
+[[・ Look at the bus map to see if there is any place useful nearby.-&gt;A7]]</tw-passagedata><tw-passagedata pid="25" name="C6" tags="" position="1025,1100" size="100,100">You find some homeless people and ask their advice on where to go.
+
 You approach a young man with a funky hat and a fluffy coat playing the guitar. He isn’t much older than you. It surprises you how tall and burly he is, not looking like someone who doesn’t get enough to eat. He smiles, and you ask him where the best place is to get help.
+
 He is friendlier than anyone else has been so far today. “It depends what kind of help you’re looking for.”
+
 It humiliates you that you have to say it out loud. “I need some food and some place to stay.”
+
 The stranger is kind and doesn’t make you feel self-conscious. He tells you where Looking Glass is located. “It isn’t far, but I gotta warn you, street life isn’t easy. You need friends to look out for you.” He pets Bear and your puppy licks his hand. “You can stick with me if you want to come back to the homeless camp with me.”
+
 You’ve seen the homeless camps. They look dirty and dangerous. Is it safe to take the man up on his offer?
+
 Bear squirms in the backpack. You take him out and hold him.
+
 “I don’t have a sleeping bag.”
+
 “That’s fine. We can get you one.” He smiles.
+
 Bear likes the stranger.
+
 You:
-[[R2) go to Looking Glass because they have blankets.-&gt;R2]]
-[[K1) hang out with the stranger and hope he helps you.-&gt;K1]]</tw-passagedata><tw-passagedata pid="26" name="A7" tags="" position="1175,1100" size="100,100">You look at the bus map to see if there is any place useful nearby.
+
+[[・ go to Looking Glass because they have blankets.-&gt;R2]]
+[[・ hang out with the stranger and hope he helps you.-&gt;K1]]</tw-passagedata><tw-passagedata pid="26" name="A7" tags="" position="1175,1100" size="100,100">You look at the bus map to see if there is any place useful nearby.
+
 You familiarize yourself with the layout of the area. There is a library nearby and a couple churches.
+
 A lady in a long skirt and a blouse who looks like your grandma passes out fliers.
+
 “Are you lost?” The lady smiles at you.
+
 “I know exactly where I’m going,” you lie and turn back to the sign.
+
 “Would you like a flier for my church’s community dinner?”
+
 The paper she’s holding says the United Methodist Church has free community dinners on Wednesdays and breakfast on Mondays. Today is Thursday, so that isn’t going to help. You take the flier anyway.
+
 You:
-[[B2) go to the Springfield Library nearby.-&gt;B2]]
-[[F1) ask the nice lady for money.-&gt;F1]]
-[[C6) talk to the homeless people and ask their advice.-&gt;C6]]</tw-passagedata><tw-passagedata pid="27" name="E1" tags="" position="825,1225" size="100,100">You ask someone on the bus for directions for the area.
+
+[[・ go to the Springfield Library nearby.-&gt;B2]]
+[[・ ask the nice lady for money.-&gt;F1]]
+[[・ talk to the homeless people and ask their advice.-&gt;C6]]</tw-passagedata><tw-passagedata pid="27" name="E1" tags="" position="825,1225" size="100,100">You ask someone on the bus for directions for the area.
+
 You ask a mother with two children on the bus if she knows where the nearest library is, a soup kitchen, or someplace that gives away warm clothes.
+
 Her eyes look to you with pity. “The library is a couple blocks from here. I bet someone there can help you look up those things on the computer there.”
+
 A man sitting nearby tells you about Cahoots. You already know about Cahoots from that time they came to your school, and they explained how their services worked.
+
 “I don’t need counseling,” you say.
+
 This is humiliating. You’re belly grumbles almost as loud as the bus engine. You’re certain everyone can hear it. This would be the time you’d eat lunch on a normal day.
-[[A6) You decide to ride the bus to school so you can get something to eat in the cafeteria.-&gt;A6]]
-[[B1) You go to the Eugene library because you know that library better.-&gt;B1]]
-[[B2) You go to the Springfield library nearby.-&gt;B2]]
-[[D1) You ride the bus until you find someplace that looks like it will be good for panhandling in Springfield.-&gt;D1]]</tw-passagedata><tw-passagedata pid="28" name="B2" tags="" position="975,1225" size="100,100">You go to the Springfield library nearby
+
+[[・ You decide to ride the bus to school so you can get something to eat in the cafeteria.-&gt;A6]]
+[[・ You go to the Eugene library because you know that library better.-&gt;B1]]
+[[・ You go to the Springfield library nearby.-&gt;B2]]
+[[・ You ride the bus until you find someplace that looks like it will be good for panhandling in Springfield.-&gt;D1]]</tw-passagedata><tw-passagedata pid="28" name="B2" tags="" position="975,1225" size="100,100">You go to the Springfield library nearby.
+
 You do not have a library card for Springfield, so you can’t get on the computer for very long, but the man at the desk tells you that you can use the Wi-Fi on your phone. You use the tiny stubs of pencils on scraps of paper to write down places you can go to get free blankets, free food, and shelters. There are some places that will help youth like you in Springfield or Eugene. The ones in Springfield are closer, but you don’t know this area as well.
+
 The librarian notices Bear peeking his head out of your bag when you are distracted by writing down notes. “We don’t permit animals in the library.”
+
 “He’s my service animal.”
+
 The librarian doesn’t buy it. In the hallway, you can still get Wi-Fi on your phone. You are hungry and want to get to one of the places while they are open.
+
 You return to the bus station and ride the bus that will take you to:
-[[R1) Hosea Youth Services because they help young people.-&gt;R1]]
-[[R2) Looking Glass because they might have blankets.-&gt;R2]]
-[[D4) Catholic Community Services because they have shelter options.-&gt;D4]]
+
+[[・ Hosea Youth Services because they help young people.-&gt;R1]]
+[[・ Looking Glass because they might have blankets.-&gt;R2]]
+[[・ Catholic Community Services because they have shelter options.-&gt;D4]]
 </tw-passagedata><tw-passagedata pid="29" name="D2" tags="" position="575,1375" size="100,100">Run before she grabs you.
+
 You don’t know many places in this area. You head to the bus station where you will have the most options. There are a couple teenagers hanging out who look like they might be homeless too. From there, you:
-[[A6) get on a bus that will take you to school where you can get some free food.-&gt;A6]]
-[[A7) look at the bus map to see if there is any place useful nearby.-&gt;A7]]
-[[C6) talk to the homeless people and ask their advice.-&gt;C6]]</tw-passagedata><tw-passagedata pid="30" name="D3" tags="" position="725,1375" size="100,100">You decide to trust her.
+
+[[・ get on a bus that will take you to school where you can get some free food.-&gt;A6]]
+[[・ look at the bus map to see if there is any place useful nearby.-&gt;A7]]
+[[・ talk to the homeless people and ask their advice.-&gt;C6]]</tw-passagedata><tw-passagedata pid="30" name="D3" tags="" position="725,1375" size="100,100">You decide to trust her.
+
 The police officer tells you about resources like Looking Glass, Hosea Youth Services, and Catholic Community Services that can help you find safety while staying independent.
+
 You are skeptical these places are going to help you. They might just report you to DHS, but there is a chance they might be able to help. You want to be able to stay with Bear and protect him.
+
 “Catholic Community Services isn’t far. I can take you there,” the officer says.
+
 You:
-[[D4) accept the officer’s ride and let her take you to Catholic Community Services.-&gt;D4]]
-[[D5) don’t know if you can trust the officer, so you walk to Catholic Community Services.-&gt;D5]]
-[[B1) get on a bus and go to the Eugene Library so you can look up the services she talked about.-&gt;B1]]</tw-passagedata><tw-passagedata pid="31" name="D4" tags="" position="650,1525" size="100,100">You go to Catholic Community Services.
+
+[[・ accept the officer’s ride and let her take you to Catholic Community Services.-&gt;D4]]
+[[・ don’t know if you can trust the officer, so you walk to Catholic Community Services.-&gt;D5]]
+[[・ get on a bus and go to the Eugene Library so you can look up the services she talked about.-&gt;B1]]</tw-passagedata><tw-passagedata pid="31" name="D4" tags="" position="650,1525" size="100,100">You go to Catholic Community Services.
+
 The volunteers at Catholic Community Services are kind and give you food. A man there listens as you explain your situation and you feel like he really cares about your problems. They help you find services so you can be independent and keep Bear. There is an overwhelming amount of paperwork and you will have to wait days for a permanent solution, but they say they will assist you along the way. They are willing to help you find a shelter so you can keep Bear.
+
 It isn’t going to be easy, but it’s better than sleeping on the street again and being cold and hungry.
+
 The End</tw-passagedata><tw-passagedata pid="32" name="D5" tags="" position="800,1525" size="100,100">You don’t know if you can trust the officer, so you walk to Catholic Community Services.
+
 You ask for directions and think you have it down, but you get lost. The shoes you are wearing are uncomfortable and your feet are tired. Hunger gnaws at your belly. You can’t find any place that looks like a Catholic church. You find Ebbert United Methodist Church, which offers free community meals on certain days, but it isn’t the right day or time. It sucks walking around in an unfamiliar city.
+
 You return to the Springfield bus station. People stand around, waiting for the bus. There is a group of young people carrying blankets who might be homeless.
+
 Your options are limited. You can:
-[[A7) look at the bus map to see if there is any place useful nearby.-&gt;A7]]
-[[B2) walk to Springfield Public Library.-&gt;B2]]
-[[A6) get on a bus that will take you to school where you can get some free food.-&gt;A6]]
-[[C6) talk to the homeless people and ask their advice.-&gt;C6]]</tw-passagedata><tw-passagedata pid="33" name="F1" tags="" position="1125,1225" size="100,100">You ask the nice lady for money.
+
+[[・ look at the bus map to see if there is any place useful nearby.-&gt;A7]]
+[[・ walk to Springfield Public Library.-&gt;B2]]
+[[・ get on a bus that will take you to school where you can get some free food.-&gt;A6]]
+[[・ talk to the homeless people and ask their advice.-&gt;C6]]</tw-passagedata><tw-passagedata pid="33" name="F1" tags="" position="1125,1225" size="100,100">You ask the nice lady for money.
+
 Her brow crinkles up. “I’m sorry, honey, I don’t have any money with me today. Just fliers.”
+
 You hate that way she looks at you.
+
 “We can walk over to the church, and I can find someone who will help you.”
+
 By “help you” you suspect she means “call the police.”
+
 “I’m certain they have something for you to eat.”
+
 It’s tempting.
+
 Do you accept her offer?
-[[F2) Yes. You accept her help.-&gt;F2]]
-[[F3) No. You back away from the lady.-&gt;F3]]</tw-passagedata><tw-passagedata pid="34" name="F2" tags="" position="1050,1375" size="100,100">Yes. You accept her help.
+
+[[・ Yes. You accept her help.-&gt;F2]]
+[[・ No. You back away from the lady.-&gt;F3]]</tw-passagedata><tw-passagedata pid="34" name="F2" tags="" position="1050,1375" size="100,100">Yes. You accept her help.
+
 You walk with the lady to her church. It is only a couple blocks away. Once there, she talks to a man who gives you a breakfast bar. He tells you about some services nearby where you can get more food and blankets. The old woman says she’s going to get you a sack lunch and disappears. The man keeps glancing at the door as he talks to you. Probably the woman is calling the police or child services or someone else horrible.
+
 Bear growls from your bag. You don’t think he likes the man.
+
 You leave before the police arrive. You decide to:
-[[C6) find the homeless people at the bus station and ask their advice.-&gt;C6]]
-[[B2) go to the Springfield library nearby.-&gt;B2]]
-[[F4) Stay at the church to get a sack lunch.-&gt;F4]]</tw-passagedata><tw-passagedata pid="35" name="F3" tags="" position="1200,1375" size="100,100">No. You back away from the lady.
+
+[[・ find the homeless people at the bus station and ask their advice.-&gt;C6]]
+[[・ go to the Springfield library nearby.-&gt;B2]]
+[[・ Stay at the church to get a sack lunch.-&gt;F4]]</tw-passagedata><tw-passagedata pid="35" name="F3" tags="" position="1200,1375" size="100,100">No. You back away from the lady.
+
 “I’ll pray for you,” she said.
+
 You need to get something to eat and find a place to sleep. Anything is better than going home.
+
 You:
-[[B2) go to the Springfield library nearby.-&gt;B2]]
-[[C6) talk to the homeless people and ask their advice.-&gt;C6]]</tw-passagedata><tw-passagedata pid="36" name="F4" tags="" position="1050,1525" size="100,100">Stay at the church to get a sack lunch.
+
+[[・ go to the Springfield library nearby.-&gt;B2]]
+[[・ talk to the homeless people and ask their advice.-&gt;C6]]</tw-passagedata><tw-passagedata pid="36" name="F4" tags="" position="1050,1525" size="100,100">Stay at the church to get a sack lunch.
+
 You wait until the woman returns to give you the sack lunch. It is taking her forever. The back of your neck prickles with sweat as you consider whether she might be calling the police or someone that will make you go back home.
+
 When she returns, she has a sack lunch for you.
+
 “Thank you.” You duck your head down and avoid eye contact as she tries to get you to stay longer. “Sorry. I have to go.” You rush away.
+
 You make it outside without incident, but just on the other side of the door are two police officers. They crowd you against the door and ask you questions.
+
 “You need to come with us,” a man who looks like a former football player says. “We are going to help you.”
+
 You know what this means. They are going to take you home. This sucks. You didn’t even make it one day on your own, and you’re going back to the place you started.
-The End</tw-passagedata><tw-passagedata pid="37" name="R1" tags="" position="900,1375" size="100,100">You go to Hosea Youth Services.
+
+The End
+</tw-passagedata><tw-passagedata pid="37" name="R1" tags="" position="900,1375" size="100,100">You go to Hosea Youth Services.
+
 They are closed. When you check the hours on the sign, you learn they are only open three days a week.
+
 You:
-[[R2) go to Looking Glass.-&gt;R2]]
-[[Q1) return to Eugene Station and walk around, even though you are exhausted, and when a bus comes, you pay for a ticket to ride around until breakfast time at the Mission.-&gt;Q1]]</tw-passagedata><tw-passagedata pid="38" name="R2" tags="" position="1200,1525" size="100,100">You go to Looking Glass.
+
+[[・ go to Looking Glass.-&gt;R2]]
+[[・ return to Eugene Station and walk around, even though you are exhausted, and when a bus comes, you pay for a ticket to ride around until breakfast time at the Mission.-&gt;Q1]]</tw-passagedata><tw-passagedata pid="38" name="R2" tags="" position="1200,1525" size="100,100">You go to Looking Glass.
+
 People there are nice and do not make you feel stupid or judge you. They help you and Bear find resources so that you will be warm and safe. There are different places you can go each day with free food. One of the volunteers tells you about the Egan warming centers that allows pets. You can stay there until you find a more permanent solution that doesn’t involve going back home.
+
 You decide to:
-[[R3) try your luck at continuing to stay “unhoused.”-&gt;R3]]
-[[R4) find a more permanent solution.-&gt;R4]]</tw-passagedata><tw-passagedata pid="39" name="H1" tags="" position="225,950" size="100,100">You grab as much food as you can in one pass without stopping to draw attention to yourself.
+
+[[・ try your luck at continuing to stay “unhoused.”-&gt;R3]]
+[[・ find a more permanent solution.-&gt;R4]]</tw-passagedata><tw-passagedata pid="39" name="H1" tags="" position="225,950" size="100,100">You grab as much food as you can in one pass without stopping to draw attention to yourself.
+
 You’re able to shove two milks into your hoodie’s pocket, two apples, and a small tray of tater tots. Bear sticks his head out of the bag. You give him one of the apples to distract him and zip up the bag.
+
 If you leave now, you can eat your food and figure out how you’re going to stay warm for the night. Or you can go to the library to use the Internet to contact friends. You might even be able to find some kind of service that will help you.
+
 You also might be caught by the truancy officer and brought to his office. If he does that, he’s going to figure out you’re missing and call the police or your parents.
+
 You decide to:
-[[I1) Eat as much as you can on the way to the school library.-&gt;I2]]
-[[I2) Leave the school and eat elsewhere.-&gt;I2]]
-[[I3) Wander the halls until you find one of your friends.-&gt;I3]]</tw-passagedata><tw-passagedata pid="40" name="H2" tags="" position="375,950" size="100,100">You grab as much food as will fit in your bag before anyone yells at you.
+
+[[・ Eat as much as you can on the way to the school library.-&gt;I2]]
+[[・ Leave the school and eat elsewhere.-&gt;I2]]
+[[・ Wander the halls until you find one of your friends.-&gt;I3]]</tw-passagedata><tw-passagedata pid="40" name="H2" tags="" position="375,950" size="100,100">You grab as much food as will fit in your bag before anyone yells at you.
 The lunch lady isn’t looking. The campus security is talking to a teacher. No one notices!
+
 Then Bear jumps out of the bag and scrambles across the floor. You run after him.
+
 “Dogs are not permitted at school!” the security guard yells.
+
 “Sorry. I’ll get him out of here. I promise.”
+
 You hear another familiar voice. Your first period teacher is standing in the door gazing at you. He says something to the campus security guard. Either he saw you steal food, or your mom and stepdad reported you as missing and he knows. The campus security guard turns away from you and says something into his walkie-talkie.
-You quickly walk away. If you find one of your friends, you can ask for help, but you might get caught. You might even be able to evade the security and go to the library and use the internet to find a place to go. 
+
+You quickly walk away. If you find one of your friends, you can ask for help, but you might get caught. You might even be able to evade the security and go to the library and use the internet to find a place to go.
+
 If you leave now, you can eat your food and figure out how you’re going to stay warm for the night.
+
 You decide to:
-[[I1) Eat as much as you can on the way to the school library because you won’t be allowed to eat once you’re in there.-&gt;I1]]
-[[I2) Leave the school and eat elsewhere.-&gt;I2]]
-[[I3) Wander the halls until you find one of your friends.-&gt;I3]]</tw-passagedata><tw-passagedata pid="41" name="I3" tags="" position="375,1100" size="100,100">You wander the halls until you find one of your friends.
+
+[[・ Eat as much as you can on the way to the school library because you won’t be allowed to eat once you’re in there.-&gt;I1]]
+[[・ Leave the school and eat elsewhere.-&gt;I2]]
+[[・ Wander the halls until you find one of your friends.-&gt;I3]]</tw-passagedata><tw-passagedata pid="41" name="I3" tags="" position="375,1100" size="100,100">You wander the halls until you find one of your friends.
+
 You can’t find anyone you know. When you peek into classrooms, all teachers are lecturing, giving tests, or students are working so quietly it would be really obvious if you went in. You manage to evade the campus security until passing time by hiding in the restroom for part of the time. Bear gets a restroom break in the parking lot. 
+
 You wait outside a friend’s classroom as the class gets out. When you don’t see her, you peer inside. She isn’t there. Maybe she was absent. You rush to another friend’s classroom, feeling self-conscious as students stare at you. Class is about to start. It feels like everyone’s eyes are on you. Judging you.
+
 You speak as quickly as you can to your friend. “Have you checked your messages? Do you think your parents would let me stay the night?”
+
 Your friend stares at you puzzled. “What?”
+
 The bell rings.
+
 The teacher clears her throat. “I need my class to start on the warmup. Anyone not in this class needs to leave.”
+
 She stares. Everyone who wasn’t already looking at you does now.
+
 You don’t know what else to do, so you leave the school.
+
 You decide to:
-[[B1) Get on a bus that will take you to the Eugene library.-&gt;B1]]
-[[I2) Leave the school and go elsewhere.-&gt;I2]]
-[[C6) find some homeless people and ask their advice on where to go.-&gt;C6]]</tw-passagedata><tw-passagedata pid="42" name="I2" tags="" position="250,1100" size="100,100">You leave the school and eat elsewhere.
+
+[[・ Get on a bus that will take you to the Eugene library.-&gt;B1]]
+[[・ Leave the school and go elsewhere.-&gt;I2]]
+[[・ find some homeless people and ask their advice on where to go.-&gt;C6]]</tw-passagedata><tw-passagedata pid="42" name="I2" tags="" position="250,1100" size="100,100">You leave the school and eat elsewhere.
+
 As you walk, you eat your tater tots and the two apples. You drink one milk. As you feed Bear, you notice how little dog food there is left.
+
 Going to school solved one of your problems, at least temporarily, but now you need someplace to stay at night. And you’ll need more food for later.
+
 You: 
-[[C6) find some homeless people and ask their advice on where to go.-&gt;C6]]
-[[B1) get on a bus that will take you to the Eugene library.-&gt;B1]]
-[[J2) think about services you know that you trust. You decide to call Cahoots.-&gt;J2]]</tw-passagedata><tw-passagedata pid="43" name="I1" tags="" position="125,1100" size="100,100">You eat as much as you can on the way to the school library.
+
+[[・ find some homeless people and ask their advice on where to go.-&gt;C6]]
+[[・ get on a bus that will take you to the Eugene library.-&gt;B1]]
+[[・ think about services you know that you trust. You decide to call Cahoots.-&gt;J2]]</tw-passagedata><tw-passagedata pid="43" name="I1" tags="" position="125,1100" size="100,100">You eat as much as you can on the way to the school library.
+
 Once inside, you log onto a computer. You position yourself in a spot that you can watch the librarian and the door. It’s hard to say how much time you have before someone catches you skipping class or realizes you are missing.
+
 You might not have time to send Snapchat and Facebook messages to friends asking if you can stay the night and then look up shelters, places to get a coat, or services that give out free food.
+
 You use your time wisely by:
-[[H3) Contacting friends.-&gt;H3]]
-[[H4) Researching resources on the school Internet.-&gt;H4]]</tw-passagedata><tw-passagedata pid="44" name="J2" tags="" position="300,1250" size="100,100">You think about services you know that you trust. You decide to call Cahoots.
+
+[[・ Contacting friends.-&gt;H3]]
+[[・ Researching resources on the school Internet.-&gt;H4]]</tw-passagedata><tw-passagedata pid="44" name="J2" tags="" position="300,1250" size="100,100">You think about services you know that you trust. You decide to call Cahoots.
+
 They have come to your school before. Since you don’t have Wi-Fi, you have to ask a teenager who is sitting in his car listening to music in the parking lot if you can use his phone.
+
 You’re afraid he might say something nasty or tell you to get lost.
+
 “I forgot to charge my phone,” you say quickly, because you don’t want him to know you can’t afford minutes.
+
 The other teen just shrugs. He doesn’t seem to mind letting you use his phone.
+
 The person who answers at Cahoots is sympathetic and gives you a list of resources. You talk quietly so the other teen won’t hear. The person at Cahoots agrees it isn’t safe back home and offers to meet with you to help you find temporary housing that will permit you to keep a dog with you.
+
 You are willing to try their suggestions. You hope you and Bear will be able to stay together. Temporary housing is safer than living on the street.
+
 The End</tw-passagedata><tw-passagedata pid="45" name="H3" tags="" position="50,1250" size="100,100">You use your time wisely by contacting friends.
+
 It sucks that everyone is in class right now except you. No one sends messages back. You charge your phone in an outlet as you research.
+
 You write a post:
+
 Does anyone have a couch I can sleep on tonight?
+
 Surely not everyone out there can be so heartless. And not everyone can be paying attention in class.
+
 A teacher walks by. It is one of your teachers. She stares at you but says nothing. You pull up your hoodie. A minute later you spot the dean of discipline. You slide lower in yours seat and pack up. Before he comes over, you leave.
+
 You:
-[[I3) wander the halls until you find one of your friends.-&gt;I3]]
-[[B1) leave and take a bus ride to the Eugene Public Library.-&gt;B1]]
-[[I2) leave the school and eat elsewhere as you decide what to do.-&gt;I2]]</tw-passagedata><tw-passagedata pid="46" name="H4" tags="" position="175,1250" size="100,100">You use your time wisely by researching resources on the school Internet.
+
+[[・ wander the halls until you find one of your friends.-&gt;I3]]
+[[・ leave and take a bus ride to the Eugene Public Library.-&gt;B1]]
+[[・ leave the school and eat elsewhere as you decide what to do.-&gt;I2]]</tw-passagedata><tw-passagedata pid="46" name="H4" tags="" position="175,1250" size="100,100">You use your time wisely by researching resources on the school Internet.
+
 It takes a while to look up information on where youth can get free things to survive like food, blankets, and places to stay. The school computer is slow, and you come up with a lot of dead ends. You charge your phone in an outlet as you research.
+
 You take notes on as many places nearby as possible.
+
 Bear starts whining. You slip him a hand of dogfood to keep him quiet. When the librarian walks toward you, you zip him back up.
+
 “Dogs are not permitted inside the school.” She purses her lips. “You need to ask someone from home to pick him up.”
+
 You nod and try to look sorry so that she won’t call security or the dean of discipline. “Okay. I’ll call home.” You unplug your phone and shove the charger into your hoodie. You act like you’re calling as you leave.
+
 From here, you:
-[[I3) wander the halls until you find one of your friends.-&gt;I3]]
-[[B1) leave and take a bus ride to the Eugene Public Library to do more research.-&gt;B1]]
-[[I2) leave the school and eat elsewhere as you decide what to do.-&gt;I2]]
-[[R2) Choose a place you looked up that help homeless youth. It is called Looking Glass.-&gt;B2]]</tw-passagedata><tw-passagedata pid="47" name="K1" tags="" position="925,1525" size="100,100">You hang out with the stranger and hope he helps you.
+
+[[・ wander the halls until you find one of your friends.-&gt;I3]]
+[[・ leave and take a bus ride to the Eugene Public Library to do more research.-&gt;B1]]
+[[・ leave the school and eat elsewhere as you decide what to do.-&gt;I2]]
+[[・ Choose a place you looked up that help homeless youth. It is called Looking Glass.-&gt;B2]]</tw-passagedata><tw-passagedata pid="47" name="K1" tags="" position="925,1525" size="100,100">You hang out with the stranger and hope he helps you.
+
 The stranger’s name is Miguel. He takes you to the Mission to get dinner. There is a volunteer there who asks if you are warm enough and if you need a new coat. He lets you pick out a coat and a blanket. They are really nice and make sure you get enough to eat. No one points out how young you are or pressures you to go home.
+
 Miguel catches you reading a poster that explains rules for staying the night. He whispers. “You won’t want to stay here to sleep.”
+
 “Why?” you ask.
+
 He nods to Bear as you feed scraps to him. “Plus, they don’t allow drinking.”
+
 When you and Miguel finish eating dinner, you:
-[[K2) try your chances at the Mission.-&gt;K2]]
-[[K3) stick with Miguel and go to the homeless camp.-&gt;K3]]</tw-passagedata><tw-passagedata pid="48" name="K2" tags="" position="850,1675" size="100,100">You try your chances at the mission.
+
+[[・ try your chances at the Mission.-&gt;K2]]
+[[・ stick with Miguel and go to the homeless camp.-&gt;K3]]</tw-passagedata><tw-passagedata pid="48" name="K2" tags="" position="850,1675" size="100,100">You try your chances at the mission.
+
 You stay at the mission. They search your bag and find Bear and kick you out. Miguel is gone. You have nowhere to go again.
+
 You:
-[[L3) sleep in plain sight-&gt;L3]]
-[[L4) walk to the Ferry Street Bridge so you can hide.-&gt;L4]]</tw-passagedata><tw-passagedata pid="49" name="K3" tags="" position="1000,1675" size="100,100">You stick with Miguel and go to the homeless camp.
+
+[[・ sleep in plain sight-&gt;L3]]
+[[・ walk to the Ferry Street Bridge so you can hide.-&gt;L4]]</tw-passagedata><tw-passagedata pid="49" name="K3" tags="" position="1000,1675" size="100,100">You stick with Miguel and go to the homeless camp.
+
 There are a lot of tents and it is intimidating how many people are drunk or high. You are on edge because people can be unpredictable when they aren’t in control of themselves. Like your parents.
+
 Miguel introduces you to some friends. They are all young and nice. As you sit around, they tell you about places you can get food and more supplies tomorrow. 
+
 A boy younger than you says, “There are organizations that assist the unhoused—if you know where to go.”
+
 Unhoused. It dawns on you; that’s what you are now. You like the way the term sounds.
+
 The teenagers tell you about Hosea Youth Center, Catholic Community Services, and Looking Glass. They tell you about Occupy Medical if you get hurt.
+
 The cold makes you cough, even with the blanket wrapped around your shoulders and after taking two puffs of your inhaler.
+
 A girl about your age nods to your blanket. “That blanket isn’t going to be warm enough for tonight. It’s supposed to drop below freezing.”
+
 Miguel slaps you on the back. “You need a tent to keep the heat in. Tonight you can sleep in mine, and we’ll be toasty.”
+
 You don’t want this to be like a few days ago at home with someone forcing himself on you as you tried to sleep. Miguel is bigger than you and could bend you into a pretzel if he wanted. But the tent looks warmer and your breath clouds around your face as you cough into the cold.
+
 You:
-[[M2) politely decline and leave. You risk the cold.-&gt;M2]]
-[[K5) sleep in the tent with Miguel so you don’t freeze.-&gt;K5]]</tw-passagedata><tw-passagedata pid="50" name="L3" tags="" position="775,1825" size="100,100">You sleep in plain sight.
+
+[[・ politely decline and leave. You risk the cold.-&gt;M2]]
+[[・ sleep in the tent with Miguel so you don’t freeze.-&gt;K5]]</tw-passagedata><tw-passagedata pid="50" name="L3" tags="" position="775,1825" size="100,100">You sleep in plain sight.
+
 You find a closed restaurant with a recessed entryway that will keep you dry if it rains. It is colder than last night, but you have a coat and blanket. Your asthma tickles in your lungs and you keep coughing, even after using the inhaler. Each time you cough, it wakes Bear up and he wants to play.
+
 Eventually you fall asleep with Bear curled up in your sleeping bag.
 You wake to a man shouting at you, “You have no right to be here!”
+
 He smells drunk but from what you can see of him in the streetlight, he doesn’t look that menacing. He can barely stand up and he slurs as he speaks. “This is my spot!”
+
 You:
-[[M1) defend your territory.-&gt;M1]]
-[[M2) leave.-&gt;M2]]
-[[M3) compromise.-&gt;M3]]</tw-passagedata><tw-passagedata pid="51" name="L4" tags="" position="925,1825" size="100,100">You walk to the Ferry Street Bridge so you can hide.
+
+[[・ defend your territory.-&gt;M1]]
+[[・ leave.-&gt;M2]]
+[[・ compromise.-&gt;M3]]</tw-passagedata><tw-passagedata pid="51" name="L4" tags="" position="925,1825" size="100,100">You walk to the Ferry Street Bridge so you can hide.
+
 It is colder than last night, but you have a coat and blanket. You have to walk around an area you didn’t expect to be fenced off, which brings you closer to the river. The air is damp and the chill seeps under your coat. Your feet hurt from walking so far.
+
 Eventually you find a group of teenagers who have built a fire to keep warm. They are drinking. It smells like your father, like whiskey and tobacco smoke.
+
 You:
-[[P1) ask if you can join the other teenagers.-&gt;P1]]
-[[P2) keep walking until you find a place all by yourself.-&gt;P2]]</tw-passagedata><tw-passagedata pid="52" name="M1" tags="" position="625,1975" size="100,100">You defend your territory.
+
+[[・ ask if you can join the other teenagers.-&gt;P1]]
+[[・ keep walking until you find a place all by yourself.-&gt;P2]]</tw-passagedata><tw-passagedata pid="52" name="M1" tags="" position="625,1975" size="100,100">You defend your territory.
+
 You sit up. You are tired of being bullied at school and at home by people bigger and older. It’s time you put your foot down. 
+
 “I was here first.” You reach for your bag before he tries to grab it.
+
 The man kicks you in the stomach with more strength than you would have known was possible. The breath is knocked out of you. Bear whimpers. You try to shield Bear and get up, but you are tangled in your blanket. The man kicks you in the head. You see stars. A sharp lance of pain explodes in your side. 
+
 You realize he has stabbed you in your stomach. Warmth gushes between your fingers. You crawl away, but you don’t get very far.
+
 The man steals your belongings and your dog. Slowly you die in the street. You didn’t make it a full 24 hours on the street.
+
 The End</tw-passagedata><tw-passagedata pid="53" name="M2" tags="" position="775,1975" size="100,100">You leave.
+
 The night is quiet and peaceful. The cold air makes you feel more awake. It also irritates your asthma and it worsens. You walk until you come upon a group of homeless people in Kesey Square. One man is playing a drum even though it’s the middle of the night. They are passing around a bong and laughing.
+
 A lady with a mohawk and lots of piercings waves to you and smiles. She looks like she’s in her sixties, but maybe it’s a trick of the light.
 “Wanna hang out with us?” a man in three coats asks.
+
 You wave and say, “Maybe another time.”
+
 “Is that a puppy?” The old woman smiles. “I have some extra dog food I can share.”
+
 They seem so friendly, but you don’t know if you can trust these strangers.
-[[L4) You walk to the Ferry Street Bridge so you can hide.-&gt;L4]]
-[[N2) You join the strangers.-&gt;N2]]</tw-passagedata><tw-passagedata pid="54" name="M3" tags="" position="925,1975" size="100,100">You compromise.
+
+[[・ You walk to the Ferry Street Bridge so you can hide.-&gt;L4]]
+[[・ You join the strangers.-&gt;N2]]</tw-passagedata><tw-passagedata pid="54" name="M3" tags="" position="925,1975" size="100,100">You compromise.
+
 You hold up your hands in a placating gesture. “I’m sorry. I didn’t know.
 He mutters under his breath.
+
 “Sorry. I’m new to this.” You sound like a wimpy baby and hate the way your voice sounds. “Can we share the archway? It’s big enough for both of us.”
 He flaps his arm at you and almost falls over. “You need to move over and make room for me.”
+
 You scoot over and introduce yourself. He only belches in response. You share the shelter, but it is difficult to sleep because he doesn’t stop moving or talking to himself. When he does stop talking, he snores.
+
 You aren’t getting sleep. You:
-[[O1) share the spot for the night even though this new friend is annoying.-&gt;O1]]
-[[L4) walk to the Ferry Street Bridge so you can hide.-&gt;L4]]</tw-passagedata><tw-passagedata pid="55" name="N2" tags="" position="775,2125" size="100,100">You join the strangers.
+
+[[・ share the spot for the night even though this new friend is annoying.-&gt;O1]]
+[[・ walk to the Ferry Street Bridge so you can hide.-&gt;L4]]</tw-passagedata><tw-passagedata pid="55" name="N2" tags="" position="775,2125" size="100,100">You join the strangers.
+
 They tell fun stories about living on the street. They pass the bong to you. It’s hard not to think about your mom when you see drugs. But you also want to fit in. They might be more willing to accept you if you smoke with them.
+
 You smoke some weed, and it makes your asthma worse.
+
 A man passes you a bottle. “This will warm you up.”
+
 It smells like your dad and makes your stomach feel sick.
-[[Q1) You leave. You walk around until the buses are running, even though you are exhausted, and pay for a bus ticket to ride around until breakfast time at the Mission.-&gt;Q1]]
-[[Q4) You stay.-&gt;Q4]]</tw-passagedata><tw-passagedata pid="56" name="Q1" tags="" position="700,2275" size="100,100">You walk around the Eugene Station, even though you are exhausted, and pay for a bus ticket to ride around until breakfast time at the Mission.
+
+[[・ You leave. You walk around until the buses are running, even though you are exhausted, and pay for a bus ticket to ride around until breakfast time at the Mission.-&gt;Q1]]
+[[・ You stay.-&gt;Q4]]</tw-passagedata><tw-passagedata pid="56" name="Q1" tags="" position="700,2275" size="100,100">You walk around the Eugene Station, even though you are exhausted, and pay for a bus ticket to ride around until breakfast time at the Mission.
+
 When the Mission opens, you eat breakfast and ask for assistance. You don’t want to spend another night on the street. The volunteer at the shelter directs you to Hosea Youth Services and Looking Glass.
+
 You:
-[[R2) go to Looking Glass.-&gt;R2]]
-[[D4) go to Catholic Community Services.-&gt;D4]]</tw-passagedata><tw-passagedata pid="57" name="Q4" tags="" position="850,2275" size="100,100">You stay.
+
+[[・ go to Looking Glass.-&gt;R2]]
+[[・ go to Catholic Community Services.-&gt;D4]]</tw-passagedata><tw-passagedata pid="57" name="Q4" tags="" position="850,2275" size="100,100">You stay.
+
 You continue to smoke and drink with your new friends. You keep coughing, and your asthma gets worse. Everything gets foggy.
+
 The next thing you know, you wake up without any pants or underwear. A police officer is standing over you. Bear nudges you with his nose.
+
 The police officer is talking to you, but your head pounds so loudly it is difficult to hear. Every bone in your body hurts. You sit up. Your stomach roils.
+
 You turn and vomit on the officer’s shoes. He swears.
+
 You are arrested for indecent exposure. He doesn’t listen when you tell them someone else did this to you. You hate the way he ogles your naked body. It is the most humiliating experience of your life. They take Bear, and you are alone. You are worse of than you were at home because you have a police record, you are ashamed you trusted those people who pretended to be your friends, and now your best friend is gone.
+
 You always wanted to avoid drugs and jail like your parents, but now you have fallen down the same path as both of them. This isn’t the life you wanted for yourself.
+
 The End</tw-passagedata><tw-passagedata pid="58" name="O1" tags="" position="925,2125" size="100,100">You share the spot for the night even though this new friend is annoying.
+
 You wake up shivering at daylight. It is colder than ever. The man who had been sleeping beside you has left. Your blanket is gone. Your bag with your phone, wallet, and charger have disappeared. You can’t find Bear. You have nothing and are alone.
+
 You call Bear’s name, but he doesn’t answer. Probably the man who stole him is far from hear already.
+
 You cry, shivering and hope Bear is all right. The cold makes it difficult to breathe. You go to the Mission, but they are closed. It is unbearably cold as you sit and wait for them to open for breakfast. You don’t know how long that will be.
-While you are waiting for them to open, it gets colder. You are so tired, but you’re shivering so hard you can’t fall asleep. Even with your hands shoved into your pockets your fingers are blue. You don’t have Bear anymore to keep you warm. Your toes are numb. Eventually you sink into blackness. You freeze and do not wake up.
+
+While you are waiting for them to open, it gets colder. You are so tired, but you’re shivering so hard you can’t fall asleep. Even with your hands shoved into your pockets your fingers are blue. You don’t have Bear anymore to keep you warm. Your toes are numb. Eventually you sink into blackness. 
+
+You freeze and do not wake up.
+
 The End</tw-passagedata><tw-passagedata pid="59" name="P1" tags="" position="1075,1975" size="100,100">You ask if you can join the other teenagers.
+
 The other teenagers seem nice. The smoke from the fire and weed irritate your lungs. It makes you cough, but at least it is warm, and you aren’t alone. Bear is content.
+
 You stay with the other teens, feeling accepted and safe.
+
 After staying with the others for a few days, you wake one morning to find what you suspect is Bear’s dog poop on your blanket and jacket.
+
 A teenage girl makes a face at you. “You stink!” 
+
 You shove the blanket away from yourself. “That’s not me. It’s the blanket.”
+
 Everyone complains about how bad you smell. It’s true. You haven’t showered for days and now you have dog excrement on your coat. At least, you suspect it is dog excrement, but there’s way too much to have all come from Bear.
+
 You:
-[[T1) walk to the river to wash the blanket and your coat.-&gt;T1]]
-[[T2) leave the blanket and return to the Mission to get another.-&gt;T2]]
-[[T3) go to the Eugene Station because you have more choices in that area.-&gt;T3]]</tw-passagedata><tw-passagedata pid="60" name="P2" tags="" position="1225,1975" size="100,100">You keep walking until you find a place all by yourself.
+
+[[・ walk to the river to wash the blanket and your coat.-&gt;T1]]
+[[・ leave the blanket and return to the Mission to get another.-&gt;T2]]
+[[・ go to the Eugene Station because you have more choices in that area.-&gt;T3]]</tw-passagedata><tw-passagedata pid="60" name="P2" tags="" position="1225,1975" size="100,100">You keep walking until you find a place all by yourself.
+
 You find a secluded place that is dry. You and Bear curl up in your blanket. You keep coughing from the chill. It is too cold to sleep so you decide to walk around to stay warm. You walk for so long that your feet hurt.
+
 You go back to the Mission for breakfast and warm up. They ask you do help clean and you do. One of the volunteers gives you some papers about places that homeless youth go as alternatives to camping outside.
+
 You know there’s a chance you might lose Bear if you go to one of these places, but last night it was colder than the last. You don’t know which is worse, losing Bear or both of you freezing to death.
+
 You:
-[[R1) go to Hosea Youth Services.-&gt;R1]]
-[[R2) go to Looking Glass.-&gt;R2]]
-[[T3) go to the Eugene Station because you have more choices in that area.-&gt;T3]]</tw-passagedata><tw-passagedata pid="61" name="T1" tags="" position="1050,2125" size="100,100">You walk to the river to wash the blanket and your coat.
+
+[[・ go to Hosea Youth Services.-&gt;R1]]
+[[・ go to Looking Glass.-&gt;R2]]
+[[・ go to the Eugene Station because you have more choices in that area.-&gt;T3]]</tw-passagedata><tw-passagedata pid="61" name="T1" tags="" position="1050,2125" size="100,100">You walk to the river to wash the blanket and your coat.
+
 The river water is high because of the recent rain. The muddy banks are littered with garbage. You avoid a condom and some needles to find the cleanest place to wash. Bear wants to jump around and play, but it is too dangerous. You zip him into your backpack and wear it as you wash the sleeping bag. The water numbs your fingers and splashes up against you, making you colder. 
+
 The chill makes your asthma worse than it’s ever been. You fumble in the bag but can’t find your inhaler.
+
 Bear whines as you return to the bag to your back and resume washing. He squirms in the bag and manages to worm his way out. You feel his wet nose press against your ear. You try to grab him before he jumps out and gets stabbed by a needle. Instead, you lose your balance on the slippery bank and fall into the icy water. The current is fast, and it throws you into rocks. Bear whimpers and goes under.
+
 Desperately you reach for him, but the current sweeps you away. You can’t feel your fingers and you struggle to stay afloat. You scream. Dirty river water fills your mouth.
+
 Cold and alone, you drown.
+
 The End</tw-passagedata><tw-passagedata pid="62" name="T2" tags="" position="1175,2125" size="100,100">You leave the blanket and return to the Mission to get another.
+
 You get breakfast at the mission. They do not have any more blankets. A volunteer gives you a list of other places you can go for more permanent help. If you take advantage of these services, it might mean losing your independence and losing Bear. Or they might offer alternatives to living on the street.
+
 You:
-[[R1) go to Hosea Youth Services.-&gt;R1]]
-[[R2) go to Looking Glass.-&gt;R2]]
-[[D4) go to Catholic Community Services.-&gt;D4]]</tw-passagedata><tw-passagedata pid="63" name="T3" tags="" position="1300,2125" size="100,100">You go to the Eugene Station because you have more choices in that area.
+
+[[・ go to Hosea Youth Services.-&gt;R1]]
+[[・ go to Looking Glass.-&gt;R2]]
+[[・ go to Catholic Community Services.-&gt;D4]]</tw-passagedata><tw-passagedata pid="63" name="T3" tags="" position="1300,2125" size="100,100">You go to the Eugene Station because you have more choices in that area.
+
 It is still very early and cold. The bus was warm yesterday. You are hungry and exhausted.
+
 You:
-[[Q1) walk around, even though you are exhausted, and when a bus comes, you pay for a ticket to ride around until breakfast time at the Mission.-&gt;Q1]]
-[[Q2) approach a teenager about your age in nice clothes and ask him if he has anything to eat.-&gt;Q2]]
-[[Q3) ask a homeless woman if she knows of anyplace warm to go this early.-&gt;Q3]]</tw-passagedata><tw-passagedata pid="64" name="Q2" tags="" position="1225,2275" size="100,100">You approach the teenager in nice clothes and ask him if he has anything to eat.
+
+[[・ walk around, even though you are exhausted, and when a bus comes, you pay for a ticket to ride around until breakfast time at the Mission.-&gt;Q1]]
+[[・ approach a teenager about your age in nice clothes and ask him if he has anything to eat.-&gt;Q2]]
+[[・ ask a homeless woman if she knows of anyplace warm to go this early.-&gt;Q3]]</tw-passagedata><tw-passagedata pid="64" name="Q2" tags="" position="1225,2275" size="100,100">You approach the teenager in nice clothes and ask him if he has anything to eat.
+
 He offers to buy you a bagel at a coffeeshop nearby. You are surprised because he looks like he is on his way to work. He buys you breakfast and orders two coffee. He sits at a table with you and asks you about your situation. 
+
 “Life on a street is rough,” he says. “You’ll freeze if you stay out here.”
+
 “I don’t know what else to do. Sleeping on the street is safer than home.” You say it, but you aren’t sure that’s true anymore. Bear licks your hand, and you remember the other reason. “Plus, most places won’t let Bear stay overnight.”
+
 He nods. “I know of a shelter you can go to.”
+
 Your belly is full, and the warmth of the coffee makes you drowsy. The nice man texts a friend. You wish you had data to text your friends. As you stand up, your stomach feels funny, and your legs are wobbly.
+
 The man grabs your arm. “Are you all right? You look tired. Did you get enough sleep?”
+
 “No.” You haven’t slept well in days.
+
 Even at home, you weren’t sleeping well after that stepmonster forced his way into your room. You can’t imagine anything worse than going back there and being subjected to that.
+
 The world grows fuzzy. 
+
 You wake up gagged and tied in the back of a van with three girls and one boy. They have wide eyes and look scared. One is crying, snot running down her face.
+
 You don’t see Bear anywhere. You are surrounded by strangers but alone. You don’t know where the van is going, but this isn’t going to be good. This is far worse than home.
+
 The End</tw-passagedata><tw-passagedata pid="65" name="Q3" tags="" position="1375,2275" size="100,100">You ask a homeless woman if she knows of anyplace warm to go this early.
+
 The woman looks you up and down, concern crinkling her forehead. “You’re pretty young to be all alone.”
+
 “I’m not alone. I have Bear.” He squirms in the bag and rests his head on your shoulder. He pants next to your ear. 
+
 She nods. She gives you directions to Hosea Youth Services and Looking Glass.
+
 You don’t know which service is better or what time they open.
+
 You:
-[[R1) go to Hosea Youth Services.-&gt;R1]]
-[[R2) go to Looking Glass.-&gt;R2]]</tw-passagedata><tw-passagedata pid="66" name="R3" tags="" position="1125,1675" size="100,100">You try your luck at continuing to stay “unhoused.”
+
+[[・ go to Hosea Youth Services.-&gt;R1]]
+[[・ go to Looking Glass.-&gt;R2]]</tw-passagedata><tw-passagedata pid="66" name="R3" tags="" position="1125,1675" size="100,100">You try your luck at continuing to stay “unhoused.”
+
 There are plenty of resources Looking Glass provides so that you can be independent and stay with Bear, but also get food and stay warm—at least some of the time.
+
 Life isn’t going to be easy, you and Bear will have many more trials by continuing to live on the street, but you would rather do that than go back home.
+
 The End</tw-passagedata><tw-passagedata pid="67" name="R4" tags="" position="1275,1675" size="100,100">You decide to find a more permanent solution.
+
 There are plenty of resources Looking Glass provides so that you can be independent and stay with Bear, but also do so without sleeping on the street. They have a list of the names of the Egan Warming Centers and other shelters that permit pets where you can stay temporarily until you are able to get into low-income housing for youth.
+
 Life isn’t going to be easy, you and Bear will have many more trials, but it is going to be better than staying on the street.
+
 The End</tw-passagedata><tw-passagedata pid="68" name="K5" tags="" position="1050,1825" size="100,100">You sleep in the tent with Miguel so you don’t freeze.
+
 Just as you feared, he gets overly friendly and won’t stop groping you. 
 You tell him to stop. Bear growls. He’s your only true friend. Your puppy knows you don’t like this and wants to protect you. You don’t want anything bad to happen to him either.
+
 “You owe me this,” Miguel says. “I helped you. Now you need to do something for me.”
+
 He sounds like your father, and it disgusts you. But you have to think about Bear and what’s good for him too.
-[[M2) You leave. You will try your chances elsewhere.-&gt;M2]]
-[[K7) You do something you are uncomfortable with so you don’t freeze.-&gt;K7]]</tw-passagedata><tw-passagedata pid="69" name="K7" tags="" position="1175,1825" size="100,100">You do something you are uncomfortable with so you don’t freeze.
+
+[[・ You leave. You will try your chances elsewhere.-&gt;M2]]
+[[・ You do something you are uncomfortable with so you don’t freeze.-&gt;K7]]</tw-passagedata><tw-passagedata pid="69" name="K7" tags="" position="1175,1825" size="100,100">You do something you are uncomfortable with so you don’t freeze.
+
 Miguel doesn’t use protection, and he isn’t gentle. Bear tries to bite him. He shoves Bear outside. Afterward you hurt, and you crawl out of the tent to find Bear. The night is quiet because everyone has gone to sleep, but there is still the sound of traffic. You don’t see Bear nearby.
+
 Maybe he crawled into someone else’s tent to stay warm.
+
 You:
-[[K8) go back inside the tent and stay warm.-&gt;K8]]
-[[K9) search for Bear.-&gt;K9]]</tw-passagedata><tw-passagedata pid="70" name="K8" tags="" position="1350,1975" size="100,100">You go back inside and stay warm.
+
+[[・ go back inside the tent and stay warm.-&gt;K8]]
+[[・ search for Bear.-&gt;K9]]</tw-passagedata><tw-passagedata pid="70" name="K8" tags="" position="1350,1975" size="100,100">You go back inside and stay warm.
+
 In the morning, you hurt worse than before. You itch all over. As Miguel sleeps, you notice something moving in his hair. As you lean closer, you realize he has lice. Now you have lice. And maybe something else from the way you itch all over.
+
 You search for Bear but can’t find him anywhere. You ask others in the camp, but they haven’t seen him. You search the streets for him.
+
 You are alone, and you are in pain. You have been to the Mission, and they were kind to you there. You return and talk to someone there.
+
 “We can get you help,” a volunteer says.
+
 They might be able to help you find temporary shelter and get medical attention, but they can’t help you find Bear. If you had done things differently, Bear might still be alive.
+
 You are alone. You have lost your best friend. You have no one to protect you. 
+
 The End</tw-passagedata><tw-passagedata pid="71" name="K9" tags="" position="1475,1975" size="100,100">You search for Bear.
+
 You wander around the camp. It is quiet enough you can hear a dog growl from around the building. A dog whimpers and whines. You race toward the sound, but you are too late. A big dog has your puppy in his mouth and is shaking him.
+
 “No!” you scream and rush forward. 
+
 The big dog drops Bear and lunges for you. Adrenaline surges through you and you kick the dog in the head. He snarles and bites you, but you punch at him for all the injustices that have happened to you in the last couple days. You drive him off.
+
 Bear is still and unmoving on the pavement. You cradle him to your chest. He whimpers weakly. Blood gushes out of your wounds.
+
 The people at the camp told you about free places to get medical treatment. You walk there even though your body hurts. You know they won’t be open, but you hope Bear will be able to hold on for a few more hours. Now that the adrenaline ebbs away, you feel the pain in your body. You can’t tell which is your blood versus his. Your hand is pretty chewed up from where the other dog bit it. The injury throbs.
+
 You are in front of a medical clinic, and there will be people there who can help you, but it won’t be open for hours.
+
 Bear doesn’t make it. He dies in your arms. This is worse than home. You are alone and in pain.
+
 Is this what life is going to be like on the streets from this point forward?
+
 The End</tw-passagedata><tw-passagedata pid="72" name="Start" tags="start" position="625,250" size="100,100">&lt;style&gt; img {
 	max-width:100%;
 	max-height: 100%;
