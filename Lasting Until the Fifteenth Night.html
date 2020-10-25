@@ -36,7 +36,11 @@ tw-link {
 
 tw-sidebar {
  visibility: hidden
-}</style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="AO" tags="AO part1" position="1150,550" size="100,100">Three weeks after your stepfather moves in, all the built-up anger feels like it is going to explode out of you at any moment. You are frustrated with adults going through your things, want to scream at your new “sister” who keeps stealing your money, and are horrified by the older “brother” twice your size who broke into your room the night before who won’t take no for an answer. No one believes you. No one seems to care. 
+}</style><script role="script" id="twine-user-script" type="text/twine-javascript">var audio = new Audio('https://www.soundjay.com/nature/sounds/rain-02.mp3');
+audio.loop = true;
+audio.volume = 0.10
+audio.play();
+</script><tw-passagedata pid="1" name="AO" tags="AO part1" position="1150,550" size="100,100">Three weeks after your stepfather moves in, all the built-up anger feels like it is going to explode out of you at any moment. You are frustrated with adults going through your things, want to scream at your new “sister” who keeps stealing your money, and are horrified by the older “brother” twice your size who broke into your room the night before who won’t take no for an answer. No one believes you. No one seems to care. 
 
 It’s hard to pretend you don’t see the judgment in the eyes of teachers at school who probably think you aren’t going to turn out any different from your abusive dad—whom you haven’t seen since he walked out three years ago—and your alcoholic mom.
 
@@ -55,7 +59,10 @@ You decide to:
 [[・ run away and find somewhere to sleep for the night.-&gt;A3]]
 
 (set: $night1 to (a:))
-(set: $night2 to (a:))
+(set: $school to (a:))
+(set: $library to (a:))
+(set: $panhandle to (a:))
+(set: $advice to (a:))
 (set: $end to &quot;&quot;)
 (set: $dog to 1)
 
@@ -336,7 +343,7 @@ How much food do you grab?
 [[・ You grab as much food as will fit in your bag before anyone yells at you.-&gt;H2]]
 [[・ You are hungry, but it is too risky to steal here. You wander the halls until you find one of your friends.-&gt;I3]]
 
-(set: $night2 to $night2 + (a:&quot;* Went to school&quot;))</tw-passagedata><tw-passagedata pid="18" name="B1" tags="" position="1100,1575" size="100,100">You get on a bus that will take you to the Eugene library.
+(set: $school to $school + (a:&quot;* Went to school&quot;))</tw-passagedata><tw-passagedata pid="18" name="B1" tags="" position="1100,1575" size="100,100">You get on a bus that will take you to the Eugene library.
 
 The library is warm, and your asthma is better than it was earlier in the morning. You have a library card, but you don’t need it to use the computer. You do research. You find resources for getting supplies you need to survive on the street. You can go to Looking Glass or the Catholic Community Services in Eugene or Springfield. Outside the library, there are a lot of homeless people.
 
@@ -346,7 +353,7 @@ You:
 [[・ leave and go to Catholic Community Services to talk to them about shelter.-&gt;D4]]
 [[・ find some homeless people and ask their advice on where to go.-&gt;C6]]
 
-(set: $night2 to $night2 + (a:&quot;* Went to the library&quot;))</tw-passagedata><tw-passagedata pid="19" name="C1" tags="" position="1875,1400" size="100,100">You panhandle.
+(set: $library to $library + (a:&quot;* Went to the Eugene library&quot;))</tw-passagedata><tw-passagedata pid="19" name="C1" tags="" position="1875,1400" size="100,100">You panhandle.
 
 You have seen plenty of people do this. Right away you can see your first problem. You don’t have a sign. You scrounge through a dumpster to find a box that you break down and turn inside out. Under your meager supplies in your bag, you find an old Sharpie. You only get one letter down and then it dies. It takes forever to write a sign with a dried pen.
 
@@ -354,8 +361,7 @@ You find a corner that gets traffic. Your sign is hard to read, but it says:
 
 We are hungry. Anything helps.
 
-It is cold and you keep coughing. You make five dollars before some lady with a baby stroller filled with plastic bags shouts, “This is my corner. 
-Find yourself someplace else!”
+It is cold and you keep coughing. You make five dollars before some lady with a baby stroller filled with plastic bags shouts, “This is my corner. Find yourself someplace else!”
 
 She rams you with her cart and knocks your sign into a puddle.
 
@@ -369,9 +375,9 @@ You stuff Bear into your bag, grab your soggy sign, and leave. You:
 [[・ panhandle in a different part of the city.-&gt;C3]]
 [[・ get on the bus because it will at least be warm. While you’re riding it, you can decide what to do.-&gt;C4]]
 
-(set: $night2 to $night2 + (a:&quot;* Panhandled&quot;))
+(set: $panhandle to $panhandle + (a:&quot;* Panhandled&quot;))
 
-(set: $night2 to $night2 + (a:&quot;* Took the bus&quot;))</tw-passagedata><tw-passagedata pid="20" name="C2" tags="" position="1700,1550" size="100,100">You panhandle on a different street corner nearby.
+(set: $panhandle to $panhandle + (a:&quot;* Took the bus&quot;))</tw-passagedata><tw-passagedata pid="20" name="C2" tags="" position="1700,1550" size="100,100">You panhandle on a different street corner nearby.
 
 Your sign is soggy and unreadable. The corner where you stand doesn’t have good traffic. Your feet are tired, so you sit. Bear is restless. You feed him, and he eats, but that doesn’t help. He shivers and whines. He doesn’t need to go pee. You don’t know what is wrong with him. Maybe he is cold like you.
 
@@ -437,7 +443,9 @@ You don’t know where to find food, but you don’t know if you can trust her. 
 You:
 
 [[・ run before she grabs you.-&gt;D2]]
-[[・ decide to trust her.-&gt;D3]]</tw-passagedata><tw-passagedata pid="24" name="C5" tags="" position="1800,1700" size="100,100">You eat your granola bar.
+[[・ decide to trust her.-&gt;D3]]
+
+(set: $panhandle to $panhandle + (a:&quot;* Encountered a female officer while panhandling in Springfield&quot;))</tw-passagedata><tw-passagedata pid="24" name="C5" tags="" position="1800,1700" size="100,100">You eat your granola bar.
 
 Your belly is still hungry and now you will have nothing to eat later.
 
@@ -446,7 +454,9 @@ You decide to:
 [[・ Get on another bus because it will at least be warm. During your ride, you can decide what to do.-&gt;C4]]
 [[・ Panhandle in Springfield.-&gt;D1]]
 [[・ Talk to the homeless people and ask their advice.-&gt;C6]]
-[[・ Look at the bus map to see if there is any place useful nearby.-&gt;A7]]</tw-passagedata><tw-passagedata pid="25" name="C6" tags="" position="800,1800" size="100,100">You find some homeless people and ask their advice on where to go.
+[[・ Look at the bus map to see if there is any place useful nearby.-&gt;A7]]
+
+(set: $panhandle to $panhandle + (a:&quot;* Ate your granola bar&quot;))</tw-passagedata><tw-passagedata pid="25" name="C6" tags="" position="800,1800" size="100,100">You find some homeless people and ask their advice on where to go.
 
 You approach a young man with a funky hat and a fluffy coat playing the guitar. He isn’t much older than you. It surprises you how tall and burly he is, not looking like someone who doesn’t get enough to eat. He smiles, and you ask him where the best place is to get help.
 
@@ -469,7 +479,9 @@ Bear likes the stranger.
 You:
 
 [[・ go to Looking Glass because they have blankets.-&gt;R2]]
-[[・ hang out with the stranger and hope he helps you.-&gt;K1]]</tw-passagedata><tw-passagedata pid="26" name="A7" tags="" position="1650,1975" size="100,100">You look at the bus map to see if there is any place useful nearby.
+[[・ hang out with the stranger and hope he helps you.-&gt;K1]]
+
+(set: $advice to $advice + (a:&quot;* Found homeless people and asked for their advice&quot;))</tw-passagedata><tw-passagedata pid="26" name="A7" tags="" position="1650,1975" size="100,100">You look at the bus map to see if there is any place useful nearby.
 
 You familiarize yourself with the layout of the area. There is a library nearby and a couple churches.
 
@@ -502,7 +514,9 @@ This is humiliating. You’re belly grumbles almost as loud as the bus engine. Y
 [[・ You decide to ride the bus to school so you can get something to eat in the cafeteria.-&gt;A6]]
 [[・ You go to the Eugene library because you know that library better.-&gt;B1]]
 [[・ You go to the Springfield library nearby.-&gt;B2]]
-[[・ You ride the bus until you find someplace that looks like it will be good for panhandling in Springfield.-&gt;D1]]</tw-passagedata><tw-passagedata pid="28" name="B2" tags="" position="1600,2250" size="100,100">You go to the Springfield library nearby.
+[[・ You ride the bus until you find someplace that looks like it will be good for panhandling in Springfield.-&gt;D1]]
+
+(set: $panhandle to $panhandle + (a:&quot;* Asked for directions on the bus&quot;))</tw-passagedata><tw-passagedata pid="28" name="B2" tags="" position="1600,2250" size="100,100">You go to the Springfield library nearby.
 
 You do not have a library card for Springfield, so you can’t get on the computer for very long, but the man at the desk tells you that you can use the Wi-Fi on your phone. You use the tiny stubs of pencils on scraps of paper to write down places you can go to get free blankets, free food, and shelters. There are some places that will help youth like you in Springfield or Eugene. The ones in Springfield are closer, but you don’t know this area as well.
 
@@ -517,13 +531,17 @@ You return to the bus station and ride the bus that will take you to:
 [[・ Hosea Youth Services because they help young people.-&gt;R1]]
 [[・ Looking Glass because they might have blankets.-&gt;R2]]
 [[・ Catholic Community Services because they have shelter options.-&gt;D4]]
-</tw-passagedata><tw-passagedata pid="29" name="D2" tags="" position="1800,1850" size="100,100">Run before she grabs you.
+
+
+(set: $panhandle to $panhandle + (a:&quot;* Went to the Springfield Library&quot;))</tw-passagedata><tw-passagedata pid="29" name="D2" tags="" position="1800,1850" size="100,100">Run before she grabs you.
 
 You don’t know many places in this area. You head to the bus station where you will have the most options. There are a couple teenagers hanging out who look like they might be homeless too. From there, you:
 
 [[・ get on a bus that will take you to school where you can get some free food.-&gt;A6]]
 [[・ look at the bus map to see if there is any place useful nearby.-&gt;A7]]
-[[・ talk to the homeless people and ask their advice.-&gt;C6]]</tw-passagedata><tw-passagedata pid="30" name="D3" tags="" position="1825,2000" size="100,100">You decide to trust her.
+[[・ talk to the homeless people and ask their advice.-&gt;C6]]
+
+(set: $panhandle to $panhandle + (a:&quot;* Ran from the officer&quot;))</tw-passagedata><tw-passagedata pid="30" name="D3" tags="" position="1825,2000" size="100,100">You decide to trust her.
 
 The police officer tells you about resources like Looking Glass, Hosea Youth Services, and Catholic Community Services that can help you find safety while staying independent.
 
@@ -535,7 +553,9 @@ You:
 
 [[・ accept the officer’s ride and let her take you to Catholic Community Services.-&gt;D4]]
 [[・ don’t know if you can trust the officer, so you walk to Catholic Community Services.-&gt;D5]]
-[[・ get on a bus and go to the Eugene Library so you can look up the services she talked about.-&gt;B1]]</tw-passagedata><tw-passagedata pid="31" name="D4" tags="" position="875,2925" size="100,100">You go to Catholic Community Services.
+[[・ get on a bus and go to the Eugene Library so you can look up the services she talked about.-&gt;B1]]
+
+(set: $panhandle to $panhandle + (a:&quot;* Trusted the officer&quot;))</tw-passagedata><tw-passagedata pid="31" name="D4" tags="" position="875,2925" size="100,100">You go to Catholic Community Services.
 
 The volunteers at Catholic Community Services are kind and give you food. A man there listens as you explain your situation and you feel like he really cares about your problems. They help you find services so you can be independent and keep Bear. There is an overwhelming amount of paperwork and you will have to wait days for a permanent solution, but they say they will assist you along the way. They are willing to help you find a shelter so you can keep Bear.
 
@@ -544,7 +564,7 @@ It isn’t going to be easy, but it’s better than sleeping on the street again
 [[The End-&gt;End]]
 
 (set: $D4 to 1)
-(set: $end to &quot;went to Catholic Community Services.&quot;)</tw-passagedata><tw-passagedata pid="32" name="D5" tags="" position="2025,2125" size="100,100">You don’t know if you can trust the officer, so you walk to Catholic Community Services.
+(set: $end to &quot;went to Catholic Community Services and learned about resources reources for homeless youth.&quot;)</tw-passagedata><tw-passagedata pid="32" name="D5" tags="" position="2025,2125" size="100,100">You don’t know if you can trust the officer, so you walk to Catholic Community Services.
 
 You ask for directions and think you have it down, but you get lost. The shoes you are wearing are uncomfortable and your feet are tired. Hunger gnaws at your belly. You can’t find any place that looks like a Catholic church. You find Ebbert United Methodist Church, which offers free community meals on certain days, but it isn’t the right day or time. It sucks walking around in an unfamiliar city.
 
@@ -582,7 +602,9 @@ You leave before the police arrive. You decide to:
 
 [[・ find the homeless people at the bus station and ask their advice.-&gt;C6]]
 [[・ go to the Springfield library nearby.-&gt;B2]]
-[[・ Stay at the church to get a sack lunch.-&gt;F4]]</tw-passagedata><tw-passagedata pid="35" name="F3" tags="" position="1875,2300" size="100,100">No. You back away from the lady.
+[[・ Stay at the church to get a sack lunch.-&gt;F4]]
+
+(set: $panhandle to $panhandle + (a:&quot;* Walked to the United Methodist Church&quot;))</tw-passagedata><tw-passagedata pid="35" name="F3" tags="" position="1875,2300" size="100,100">No. You back away from the lady.
 
 “I’ll pray for you,” she said.
 
@@ -608,6 +630,7 @@ You know what this means. They are going to take you home. This sucks. You didn�
 [[The End-&gt;End]]
 
 (set: $F4 to 1)
+(set: $panhandle to $panhandle + (a:&quot;* Stayed at the church for a sack lunch&quot;))
 (set: $end to &quot;were caught by the police and sent home.&quot;)</tw-passagedata><tw-passagedata pid="37" name="R1" tags="" position="1350,2600" size="100,100">You go to Hosea Youth Services.
 
 They are closed. When you check the hours on the sign, you learn they are only open three days a week.
@@ -615,7 +638,9 @@ They are closed. When you check the hours on the sign, you learn they are only o
 You:
 
 [[・ go to Looking Glass.-&gt;R2]]
-[[・ return to Eugene Station and walk around, even though you are exhausted, and when a bus comes, you pay for a ticket to ride around until breakfast time at the Mission.-&gt;Q1]]</tw-passagedata><tw-passagedata pid="38" name="R2" tags="" position="1200,2600" size="100,100">You go to Looking Glass.
+[[・ return to Eugene Station and walk around, even though you are exhausted, and when a bus comes, you pay for a ticket to ride around until breakfast time at the Mission.-&gt;Q1]]
+
+(set: $advice to $advice + (a:&quot;* Went to Hosea Youth Services&quot;))</tw-passagedata><tw-passagedata pid="38" name="R2" tags="" position="1200,2600" size="100,100">You go to Looking Glass.
 
 People there are nice and do not make you feel stupid or judge you. They help you and Bear find resources so that you will be warm and safe. There are different places you can go each day with free food. One of the volunteers tells you about the Egan warming centers that allows pets. You can stay there until you find a more permanent solution that doesn’t involve going back home.
 
@@ -624,7 +649,7 @@ You decide to:
 [[・ try your luck at continuing to stay “unhoused.”-&gt;R3]]
 [[・ find a more permanent solution.-&gt;R4]]
 
-(set: $end to &quot;went to Looking Glass.&quot;)</tw-passagedata><tw-passagedata pid="39" name="H1" tags="" position="375,1575" size="100,100">You grab as much food as you can in one pass without stopping to draw attention to yourself.
+(set: $end to &quot;went to Looking Glass and learned about reources for homeless youth.&quot;)</tw-passagedata><tw-passagedata pid="39" name="H1" tags="" position="375,1575" size="100,100">You grab as much food as you can in one pass without stopping to draw attention to yourself.
 
 You’re able to shove two milks into your hoodie’s pocket, two apples, and a small tray of tater tots. Bear sticks his head out of the bag. You give him one of the apples to distract him and zip up the bag.
 
@@ -636,7 +661,9 @@ You decide to:
 
 [[・ Eat as much as you can on the way to the school library.-&gt;I2]]
 [[・ Leave the school and eat elsewhere.-&gt;I2]]
-[[・ Wander the halls until you find one of your friends.-&gt;I3]]</tw-passagedata><tw-passagedata pid="40" name="H2" tags="" position="525,1550" size="100,100">You grab as much food as will fit in your bag before anyone yells at you.
+[[・ Wander the halls until you find one of your friends.-&gt;I3]]
+
+(set: $school to $school + (a:&quot;* Took food from the cafeteria&quot;))</tw-passagedata><tw-passagedata pid="40" name="H2" tags="" position="525,1550" size="100,100">You grab as much food as will fit in your bag before anyone yells at you.
 The lunch lady isn’t looking. The campus security is talking to a teacher. No one notices!
 
 Then Bear jumps out of the bag and scrambles across the floor. You run after him.
@@ -655,7 +682,9 @@ You decide to:
 
 [[・ Eat as much as you can on the way to the school library because you won’t be allowed to eat once you’re in there.-&gt;I1]]
 [[・ Leave the school and eat elsewhere.-&gt;I2]]
-[[・ Wander the halls until you find one of your friends.-&gt;I3]]</tw-passagedata><tw-passagedata pid="41" name="I3" tags="" position="700,1575" size="100,100">You wander the halls until you find one of your friends.
+[[・ Wander the halls until you find one of your friends.-&gt;I3]]
+
+(set: $school to $school + (a:&quot;* Took food from the cafeteria&quot;))</tw-passagedata><tw-passagedata pid="41" name="I3" tags="" position="700,1575" size="100,100">You wander the halls until you find one of your friends.
 
 You can’t find anyone you know. When you peek into classrooms, all teachers are lecturing, giving tests, or students are working so quietly it would be really obvious if you went in. You manage to evade the campus security until passing time by hiding in the restroom for part of the time. Bear gets a restroom break in the parking lot. 
 
@@ -677,7 +706,9 @@ You decide to:
 
 [[・ Get on a bus that will take you to the Eugene library.-&gt;B1]]
 [[・ Leave the school and go elsewhere.-&gt;I2]]
-[[・ find some homeless people and ask their advice on where to go.-&gt;C6]]</tw-passagedata><tw-passagedata pid="42" name="I2" tags="" position="375,2000" size="100,100">You leave the school and eat elsewhere.
+[[・ find some homeless people and ask their advice on where to go.-&gt;C6]]
+
+(set: $school to $school + (a:&quot;* Wandered the halls&quot;))</tw-passagedata><tw-passagedata pid="42" name="I2" tags="" position="375,2000" size="100,100">You leave the school and eat elsewhere.
 
 As you walk, you eat your tater tots and the two apples. You drink one milk. As you feed Bear, you notice how little dog food there is left.
 
@@ -696,7 +727,9 @@ You might not have time to send Snapchat and Facebook messages to friends asking
 You use your time wisely by:
 
 [[・ Contacting friends.-&gt;H3]]
-[[・ Researching resources on the school Internet.-&gt;H4]]</tw-passagedata><tw-passagedata pid="44" name="J2" tags="" position="750,2925" size="100,100">You think about services you know that you trust. You decide to call Cahoots.
+[[・ Researching resources on the school Internet.-&gt;H4]]
+
+(set: $school to $school + (a:&quot;* Went to the school library&quot;))</tw-passagedata><tw-passagedata pid="44" name="J2" tags="" position="750,2925" size="100,100">You think about services you know that you trust. You decide to call Cahoots.
 
 They have come to your school before. Since you don’t have Wi-Fi, you have to ask a teenager who is sitting in his car listening to music in the parking lot if you can use his phone.
 
@@ -713,7 +746,7 @@ You are willing to try their suggestions. You hope you and Bear will be able to 
 [[The End-&gt;End]]
 
 (set: $J2 to 1)
-(set: $end to &quot;got resources from Cahoots.&quot;)</tw-passagedata><tw-passagedata pid="45" name="H3" tags="" position="575,1700" size="100,100">You use your time wisely by contacting friends.
+(set: $end to &quot;went to Cahoots and learned resources for temporary housing.&quot;)</tw-passagedata><tw-passagedata pid="45" name="H3" tags="" position="575,1700" size="100,100">You use your time wisely by contacting friends.
 
 It sucks that everyone is in class right now except you. No one sends messages back. You charge your phone in an outlet as you research.
 
@@ -729,7 +762,9 @@ You:
 
 [[・ wander the halls until you find one of your friends.-&gt;I3]]
 [[・ leave and take a bus ride to the Eugene Public Library.-&gt;B1]]
-[[・ leave the school and eat elsewhere as you decide what to do.-&gt;I2]]</tw-passagedata><tw-passagedata pid="46" name="H4" tags="" position="450,1800" size="100,100">You use your time wisely by researching resources on the school Internet.
+[[・ leave the school and eat elsewhere as you decide what to do.-&gt;I2]]
+
+(set: $school to $school + (a:&quot;* Contacted friends on the school Internet&quot;))</tw-passagedata><tw-passagedata pid="46" name="H4" tags="" position="450,1800" size="100,100">You use your time wisely by researching resources on the school Internet.
 
 It takes a while to look up information on where youth can get free things to survive like food, blankets, and places to stay. The school computer is slow, and you come up with a lot of dead ends. You charge your phone in an outlet as you research.
 
@@ -746,7 +781,9 @@ From here, you:
 [[・ wander the halls until you find one of your friends.-&gt;I3]]
 [[・ leave and take a bus ride to the Eugene Public Library to do more research.-&gt;B1]]
 [[・ leave the school and eat elsewhere as you decide what to do.-&gt;I2]]
-[[・ Choose a place you looked up that help homeless youth. It is called Looking Glass.-&gt;B2]]</tw-passagedata><tw-passagedata pid="47" name="K1" tags="" position="975,1950" size="100,100">You hang out with the stranger and hope he helps you.
+[[・ Choose a place you looked up that help homeless youth. It is called Looking Glass.-&gt;B2]]
+
+(set: $school to $school + (a:&quot;* researched resources on the school Internet&quot;))</tw-passagedata><tw-passagedata pid="47" name="K1" tags="" position="975,1950" size="100,100">You hang out with the stranger and hope he helps you.
 
 The stranger’s name is Miguel. He takes you to the Mission to get dinner. There is a volunteer there who asks if you are warm enough and if you need a new coat. He lets you pick out a coat and a blanket. They are really nice and make sure you get enough to eat. No one points out how young you are or pressures you to go home.
 
@@ -759,14 +796,17 @@ He nods to Bear as you feed scraps to him. “Plus, they don’t allow drinking.
 When you and Miguel finish eating dinner, you:
 
 [[・ try your chances at the Mission.-&gt;K2]]
-[[・ stick with Miguel and go to the homeless camp.-&gt;K3]]</tw-passagedata><tw-passagedata pid="48" name="K2" tags="" position="1150,1925" size="100,100">You try your chances at the mission.
+[[・ stick with Miguel and go to the homeless camp.-&gt;K3]]
+
+(set: $advice to $advice + (a:&quot;* Hung out with Miguel at the Mission&quot;))</tw-passagedata><tw-passagedata pid="48" name="K2" tags="" position="1150,1925" size="100,100">You try your chances at the mission.
 
 You stay at the mission. They search your bag and find Bear and kick you out. Miguel is gone. You have nowhere to go again.
 
 You:
 
 [[・ sleep in plain sight-&gt;L3]]
-[[・ walk to the Ferry Street Bridge so you can hide.-&gt;L4]]</tw-passagedata><tw-passagedata pid="49" name="K3" tags="" position="1075,1775" size="100,100">You stick with Miguel and go to the homeless camp.
+[[・ walk to the Ferry Street Bridge so you can hide.-&gt;L4]]
+</tw-passagedata><tw-passagedata pid="49" name="K3" tags="" position="1075,1775" size="100,100">You stick with Miguel and go to the homeless camp.
 
 There are a lot of tents and it is intimidating how many people are drunk or high. You are on edge because people can be unpredictable when they aren’t in control of themselves. Like your parents.
 
@@ -789,7 +829,9 @@ You don’t want this to be like a few days ago at home with someone forcing him
 You:
 
 [[・ politely decline and leave. You risk the cold.-&gt;M2]]
-[[・ sleep in the tent with Miguel so you don’t freeze.-&gt;K5]]</tw-passagedata><tw-passagedata pid="50" name="L3" tags="" position="1100,2100" size="100,100">You sleep in plain sight.
+[[・ sleep in the tent with Miguel so you don’t freeze.-&gt;K5]]
+
+(set: $advice to $advice + (a:&quot;* Stuck with Miguel in his tent&quot;))</tw-passagedata><tw-passagedata pid="50" name="L3" tags="" position="1100,2100" size="100,100">You sleep in plain sight.
 
 You find a closed restaurant with a recessed entryway that will keep you dry if it rains. It is colder than last night, but you have a coat and blanket. Your asthma tickles in your lungs and you keep coughing, even after using the inhaler. Each time you cough, it wakes Bear up and he wants to play.
 
@@ -802,7 +844,9 @@ You:
 
 [[・ defend your territory.-&gt;M1]]
 [[・ leave.-&gt;M2]]
-[[・ compromise.-&gt;M3]]</tw-passagedata><tw-passagedata pid="51" name="L4" tags="" position="800,2000" size="100,100">You walk to the Ferry Street Bridge so you can hide.
+[[・ compromise.-&gt;M3]]
+
+(set: $advice to $advice + (a:&quot;* Were confronted by a drunk homeless man&quot;))</tw-passagedata><tw-passagedata pid="51" name="L4" tags="" position="800,2000" size="100,100">You walk to the Ferry Street Bridge so you can hide.
 
 It is colder than last night, but you have a coat and blanket. You have to walk around an area you didn’t expect to be fenced off, which brings you closer to the river. The air is damp and the chill seeps under your coat. Your feet hurt from walking so far.
 
@@ -811,7 +855,9 @@ Eventually you find a group of teenagers who have built a fire to keep warm. The
 You:
 
 [[・ ask if you can join the other teenagers.-&gt;P1]]
-[[・ keep walking until you find a place all by yourself.-&gt;P2]]</tw-passagedata><tw-passagedata pid="52" name="M1" tags="" position="1000,2925" size="100,100">You defend your territory.
+[[・ keep walking until you find a place all by yourself.-&gt;P2]]
+
+(set: $advice to $advice + (a:&quot;* Walked to Ferry Street Bridge to hide&quot;))</tw-passagedata><tw-passagedata pid="52" name="M1" tags="" position="1000,2925" size="100,100">You defend your territory.
 
 You sit up. You are tired of being bullied at school and at home by people bigger and older. It’s time you put your foot down. 
 
@@ -854,7 +900,9 @@ You scoot over and introduce yourself. He only belches in response. You share th
 You aren’t getting sleep. You:
 
 [[・ share the spot for the night even though this new friend is annoying.-&gt;O1]]
-[[・ walk to the Ferry Street Bridge so you can hide.-&gt;L4]]</tw-passagedata><tw-passagedata pid="55" name="N2" tags="" position="975,2150" size="100,100">You join the strangers.
+[[・ walk to the Ferry Street Bridge so you can hide.-&gt;L4]]
+
+(set: $advice to $advice + (a:&quot;* Compromised with the drunk man&quot;))</tw-passagedata><tw-passagedata pid="55" name="N2" tags="" position="975,2150" size="100,100">You join the strangers.
 
 They tell fun stories about living on the street. They pass the bong to you. It’s hard not to think about your mom when you see drugs. But you also want to fit in. They might be more willing to accept you if you smoke with them.
 
@@ -865,14 +913,17 @@ A man passes you a bottle. “This will warm you up.”
 It smells like your dad and makes your stomach feel sick.
 
 [[・ You leave. You walk around until the buses are running, even though you are exhausted, and pay for a bus ticket to ride around until breakfast time at the Mission.-&gt;Q1]]
-[[・ You stay.-&gt;Q4]]</tw-passagedata><tw-passagedata pid="56" name="Q1" tags="" position="1125,2750" size="100,100">You walk around the Eugene Station, even though you are exhausted, and pay for a bus ticket to ride around until breakfast time at the Mission.
+[[・ You stay.-&gt;Q4]]
+
+(set: $advice to $advice + (a:&quot;* Joined the strangers in Kesey Square&quot;))</tw-passagedata><tw-passagedata pid="56" name="Q1" tags="" position="1125,2750" size="100,100">You walk around the Eugene Station, even though you are exhausted, and pay for a bus ticket to ride around until breakfast time at the Mission.
 
 When the Mission opens, you eat breakfast and ask for assistance. You don’t want to spend another night on the street. The volunteer at the shelter directs you to Hosea Youth Services and Looking Glass.
 
 You:
 
 [[・ go to Looking Glass.-&gt;R2]]
-[[・ go to Catholic Community Services.-&gt;D4]]</tw-passagedata><tw-passagedata pid="57" name="Q4" tags="" position="500,2925" size="100,100">You stay.
+[[・ go to Catholic Community Services.-&gt;D4]]
+</tw-passagedata><tw-passagedata pid="57" name="Q4" tags="" position="500,2925" size="100,100">You stay.
 
 You continue to smoke and drink with your new friends. You keep coughing, and your asthma gets worse. Everything gets foggy.
 
@@ -923,7 +974,9 @@ You:
 
 [[・ walk to the river to wash the blanket and your coat.-&gt;T1]]
 [[・ leave the blanket and return to the Mission to get another.-&gt;T2]]
-[[・ go to the Eugene Station because you have more choices in that area.-&gt;T3]]</tw-passagedata><tw-passagedata pid="60" name="P2" tags="" position="850,2275" size="100,100">You keep walking until you find a place all by yourself.
+[[・ go to the Eugene Station because you have more choices in that area.-&gt;T3]]
+
+(set: $advice to $advice + (a:&quot;* Joined the teenagers at Ferry Street Bridge&quot;))</tw-passagedata><tw-passagedata pid="60" name="P2" tags="" position="850,2275" size="100,100">You keep walking until you find a place all by yourself.
 
 You find a secluded place that is dry. You and Bear curl up in your blanket. You keep coughing from the chill. It is too cold to sleep so you decide to walk around to stay warm. You walk for so long that your feet hurt.
 
@@ -1035,7 +1088,8 @@ You tell him to stop. Bear growls. He’s your only true friend. Your puppy know
 He sounds like your father, and it disgusts you. But you have to think about Bear and what’s good for him too.
 
 [[・ You leave. You will try your chances elsewhere.-&gt;M2]]
-[[・ You do something you are uncomfortable with so you don’t freeze.-&gt;K7]]</tw-passagedata><tw-passagedata pid="69" name="K7" tags="" position="1325,1900" size="100,100">You do something you are uncomfortable with so you don’t freeze.
+[[・ You do something you are uncomfortable with so you don’t freeze.-&gt;K7]]
+</tw-passagedata><tw-passagedata pid="69" name="K7" tags="" position="1325,1900" size="100,100">You do something you are uncomfortable with so you don’t freeze.
 
 Miguel doesn’t use protection, and he isn’t gentle. Bear tries to bite him. He shoves Bear outside. Afterward you hurt, and you crawl out of the tent to find Bear. The night is quiet because everyone has gone to sleep, but there is still the sound of traffic. You don’t see Bear nearby.
 
@@ -1062,7 +1116,7 @@ You are alone. You have lost your best friend. You have no one to protect you.
 
 (set: $K8 to 1)
 (set: $dog to 0)
-(set: $end to &quot;became injured and sought out medical attention.&quot;)</tw-passagedata><tw-passagedata pid="71" name="K9" tags="" position="1250,2925" size="100,100">You search for Bear.
+(set: $end to &quot;became injured and were left to seek out help at the Mission.&quot;)</tw-passagedata><tw-passagedata pid="71" name="K9" tags="" position="1250,2925" size="100,100">You search for Bear.
 
 You wander around the camp. It is quiet enough you can hear a dog growl from around the building. A dog whimpers and whines. You race toward the sound, but you are too late. A big dog has your puppy in his mouth and is shaking him.
 
@@ -1084,7 +1138,7 @@ Is this what life is going to be like on the streets from this point forward?
 
 (set: $K9 to 1)
 (set: $dog to 0)
-(set: $end to &quot;were attacked by a big dog and sought out medical assistance.&quot;)</tw-passagedata><tw-passagedata pid="72" name="Start" tags="start" position="1150,400" size="100,100">&lt;style&gt; img {
+(set: $end to &quot;were attacked by a big dog and left to seek out medical assistance.&quot;)</tw-passagedata><tw-passagedata pid="72" name="Start" tags="start" position="1150,400" size="100,100">&lt;style&gt; img {
 	max-width: 100%;
 	max-height: 100%;
 }
@@ -1098,36 +1152,27 @@ By Sarina Dorie
 
 [[Begin-&gt;AO]]
 
-{(link:&quot;Load&quot;)[
-  (if:(load-game:&quot;Slot A&quot;) is 1)[
-    Game saved!
-  ](else: )[
-    Sorry, we couldn&#39;t load your game.
-  ]
-]}
-
 [[About-&gt;About]]
-</tw-passagedata><tw-passagedata pid="73" name="About" tags="" position="1300,400" size="100,100">About the Author
+
+&lt;img src=&quot;https://i.imgur.com/DNoRxaK.png&quot; width=&quot;325px&quot; height=&quot;113px&quot;&gt;&lt;/div&gt;&lt;img src=&quot;https://i.imgur.com/3Z55VM7.png&quot; width=&quot;180px&quot; height=&quot;180px&quot;&gt;&lt;/div&gt;</tw-passagedata><tw-passagedata pid="73" name="About" tags="" position="1300,400" size="100,100">About the Author
 
 Sarina Dorie has sold over 170 short stories to markets like Analog, Daily Science Fiction, Magazine of Fantasy and Science Fiction, Orson Scott Card’s IGMS, Cosmos, and Abyss and Apex. Her stories and published novels have won humor contests and Romance Writer of America awards. She has over fifty novels published, including her bestselling series, Womby’s School for Wayward Witches. 
 
 Sarina is a former public school art teacher and now a full-time writer as well as an artist, belly dance performer and instructor, copy editor, fashion designer, event organizer and probably a few other things.</tw-passagedata><tw-passagedata pid="74" name="End" tags="end" position="1200,3100" size="100,100">[[Summary-&gt;Page1]]
 
-[[Main Page-&gt;Start]]</tw-passagedata><tw-passagedata pid="75" name="Page1" tags="" position="1200,3250" size="100,100">&lt;span style=&quot;font-size: 125%&quot;&gt;Summary of your story:&lt;/span&gt;
+[[Main Page-&gt;Start]]
+</tw-passagedata><tw-passagedata pid="75" name="Page1" tags="" position="1200,3250" size="100,100">&lt;span style=&quot;font-size: 125%&quot;&gt;Summary of your story:&lt;/span&gt;
 
 Before the end of your first night, you:
 (for: each _event, ...$night1)[(print: _event)]
-(if: $V1 is 1)[In the end, you decided to sleep hidden and out of the way.]
-(else:)[In the end, you decided to sleep in plain sight.]
-
-[[Continue-&gt;Page2]]
-
-(if: $dog is 0)[You lost Bear.]</tw-passagedata><tw-passagedata pid="76" name="Page2" tags="" position="1200,3400" size="100,100">&lt;span style=&quot;font-size: 125%&quot;&gt;Summary of your story:&lt;/span&gt;
+(if: $V1 is 1)[In the end, you decided to sleep hidden and out of the way.](else:)[In the end, you decided to sleep in plain sight.]
 
 After your first night, you:
-(for: each _event, ...$night2)[(print: _event)]
+(for: each _event, ...$school)[(print: _event)](for: each _event, ...$library)[(print: _event)](for: each _event, ...$panhandle)[(print: _event)](for: each _event, ...$advice)[(print: _event)]
+(if: $dog is 0) [You lost Bear.]
+At the end of your story, you [$end]
 
-At the end of your story, you [$end]</tw-passagedata></tw-storydata>
+[[Main Page-&gt;Start]]</tw-passagedata></tw-storydata>
 
 <script title="Twine engine code" data-main="harlowe">"use strict";function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}var _slicedToArray=function(){function e(e,t){var n=[],r=!0,i=!1,o=void 0;try{for(var a,s=e[Symbol.iterator]();!(r=(a=s.next()).done)&&(n.push(a.value),!t||n.length!==t);r=!0);}catch(e){i=!0,o=e}finally{try{!r&&s.return&&s.return()}finally{if(i)throw o}}return n}return function(t,n){if(Array.isArray(t))return t;if(Symbol.iterator in Object(t))return e(t,n);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};!function(){/**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
