@@ -18,7 +18,7 @@ All resources unique to Lane County have been marked and identified so that othe
 3. On the sidebar, click "Import From File", then "Choose File"
 4. Select "Lasting Until the Fifteenth Night.html". It should now appear in your Twine 2 dashboard.
 5. Open the story and navigate to the passage labeled "Start".
-6. You should see a number of macros that looks like this:
+6. You should see a number of macros that look like this:
 ```javascript
 (set: $city1 to "Eugene")
 (set: $city2 to "Springfield")
