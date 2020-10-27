@@ -4,7 +4,7 @@ This game was created with Twine 2.3.9 and the story was formatted in Harlowe 3.
 
 ## Features
 ### Choose Your Own Path
-Readers will play as a youth navigating the streets in a Choose-Your-Own-Adevnture style game. The choose your own path story line will take the reader through the experience of living on the street, learning about community resources and organizations, and options other than the street.
+Readers will play as a youth navigating the streets in a Choose-Your-Own-Adventure style game. The choose your own path story line will take the reader through the experience of living on the street, learning about community resources and organizations, and options other than the street.
 
 ### Summary
 At the end of the story, readers will be able to view a short summary of all the major choices taken throughout the duration of their playthrough.
