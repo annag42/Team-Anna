@@ -11,7 +11,7 @@ At the end of the story, readers will be able to view a short summary of all the
 
 ### Editing Resources
 All resources unique to Lane County have been marked and identified so that other communities may utilize and insert their own specific resources to the game. For example, Looking Glass is a service for youths in crisis based in Lane County. If communties want to change it to a service located in the Portland area, they may do so.
-![alt text](http://url/to/img.png)
+
 #### To change resources
 1. Make sure you have downloaded "Lasting Until the Fifteenth Night.html" to a directory on your computer (See "Quick Setup" 1-5)
 2. Navigate to the online version of Twine 2.3.9: https://twinery.org/2/#!/stories
